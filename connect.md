@@ -3,6 +3,7 @@ title: Connect
 subtitle: Find out what I'm working on and get in touch
 layout: page
 show_sidebar: false
+hero_image: /img/nebraska.jpg
 ---
 
 - Email: [steve.baskauf@vanderbilt.edu](mailto:steve.baskauf@vanderbilt.edu)
