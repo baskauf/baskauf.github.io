@@ -24,3 +24,21 @@ For more information about this approach, see [Baskauf and Baskauf, 2021](https:
 In 2020, a team of librarians from Vanderbilt received a [WikiCite grant funded by the Alfred P. Sloan Foundation](https://meta.wikimedia.org/wiki/Wikicite/grant/WikiCite_for_Librarians:_Interactive_Learning_Pathways_for_Information_Professionals) to produce a series of interactive learning modules for Wikidata beginners. These self-paced lessons are geared towards information professionals, but usable by anyone.
 
 <img src="/img/learn_wikidata.png" alt="Learn Wikidata splash screen" width="400"><br/>
+
+I contributed to the project through scriptwriting, Twine programming, and workflow management. To try out the lessons, visit <https://learnwikidata.net/> .
+
+## WikiProjects
+
+At the Vanderbilt Libraries, we have three ongoing WikiProjects to enter data related to Vanderbilt resources. 
+
+[WikiProject VandyCite](https://www.wikidata.org/wiki/Wikidata:WikiProject_VandyCite) 
+
+<img src="/img/640px-Wilhelm_Morgner_001.jpg" alt="Learn Wikidata splash screen" width="400">
+
+[WikiProject Vanderbilt Fine Arts Gallery](https://www.wikidata.org/wiki/Wikidata:WikiProject_Vanderbilt_Fine_Arts_Gallery)
+
+<img src="/img/Demon_Playing_a_Samisen,_With_Wine_Bottle_and_Drinking_Cup_in_Foreground_-_Vanderbilt_Fine_Arts_Gallery_-_1992.253.tif.jpg" alt="Demon Playing a Samisen" width="400">
+
+[WikiProject Art in the Christian Tradition (ACT)](https://www.wikidata.org/wiki/Wikidata:WikiProject_Art_in_the_Christian_Tradition_(ACT)) 
+
+<img src="/img/640px-Wilhelm_Morgner_001.jpg" alt="Entry into Jerusalem" width="400">
