@@ -1,6 +1,6 @@
 ---
 title: Steve Baskauf
-subtitle: Linked Data - informatics - education
+subtitle: Data Science and Data Curation Specialist
 layout: page
 callouts: home_callouts
 show_sidebar: true

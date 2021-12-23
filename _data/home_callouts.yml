@@ -3,12 +3,12 @@ items:
   - title: Linked Open Data
     subtitle: Wikidata, RDF, JSON-LD
     icon: fa-project-diagram
-    call_to_action_name: explore
+    call_to_action_name: link
     call_to_action_link: /page-1/
   - title: biodiversity informatics
-    subtitle: TDWG Standards for occurrences and multimedia
+    subtitle: TDWG standards development
     icon: fa-bug
-    call_to_action_name: share
+    call_to_action_name: explore
     call_to_action_link: /page-2/
   - title: data science education
     subtitle: Python, R, GitHub
