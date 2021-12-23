@@ -1,5 +1,5 @@
 ---
-title: Steven J. Baskauf
+title: Steve Baskauf
 subtitle: Linked Data - biodiversity informatics - education
 layout: page
 callouts: home_callouts
