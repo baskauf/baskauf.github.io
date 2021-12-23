@@ -5,14 +5,14 @@ layout: page
 show_sidebar: false
 ---
 
-<img src="/img/stone_door.jpg" alt="Stone Door at Savage Gulf State Park, Tennessee" height="400"><br/>
+<img src="/img/stone_door.jpg" alt="Stone Door at Savage Gulf State Park, Tennessee" width="400"><br/>
 <small>Photo by Valerie Hotchkiss</small>
 
 # Background
 
 I have a BA degree in chemistry and biology and a Ph.D. in biology with a focus on insect ecology and evolution.  I have ten years of experience teaching high school in Ohio, Swaziland, and Tennessee, and taught biology at Vanderbilt University from 2000 to 2018.  
 
-<img src="/img/1985-newton-third.jpg" alt="St. Joseph's High School, Mzimpofu, Swaziland" height="400"><br/>
+<img src="/img/1985-newton-third.jpg" alt="St. Joseph's High School, Mzimpofu, Swaziland" width="300"><br/>
 
 # Current job responsibilities
 
