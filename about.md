@@ -5,14 +5,14 @@ layout: page
 show_sidebar: false
 ---
 
-![Stone Door at Savage Gulf State Park, Tennessee](/img/stone_door.jpg)<br/>
+<img src="/img/stone_door.jpg" alt="sStone Door at Savage Gulf State Park, Tennessee" height="600"><br/>
 <small>Photo by Valerie Hotchkiss</small>
 
 # Background
 
 I have a BA degree in chemistry and biology and a Ph.D. in biology with a focus on insect ecology and evolution.  I have ten years of experience teaching high school in Ohio, Swaziland, and Tennessee, and taught biology at Vanderbilt University from 2000 to 2018.  
 
-![St. Joseph's High School, Mzimpofu, Swaziland](/img/1985-newton-third.jpg)
+<img src="/img/1985-newton-third.jpg" alt="St. Joseph's High School, Mzimpofu, Swaziland" height="600"><br/>
 
 # Current job responsibilities
 
@@ -22,14 +22,14 @@ My work in the DiSC office involves helping faculty, staff, and students build d
 
 You can learn more about some of these efforts through the projects tab.
 
-![Working with a student at Vanderbilt](/img/student_help.jpg)
+<img src="/img/student_help.jpg" alt="Working with a student at Vanderbilt" width="600"><br/>
 
 # Professional contributions
 
 I am an active participant in the Biodiversity Information Standards (TDWG) organization.  I am currently a member of the Executive Committee, the chair of the Technical Architecture Group, and convener of the Views Controlled Vocabularies Task Group. I also serve on the Darwin Core Maintenance Group, Audubon Core Maintenance Group, Taxon Names and Concepts Maintenance Group, and the Humboldt Core Task Group.  You can learn more about my standards work under the projects tab.
 
-![AC Subtype RDF](/img/subtype_turtle.png)
+<img src="/img/subtype_turtle.png" alt="Audubon Core Subtype RDF" width="600"><br/>
 
 I am also actively involved in the Wikimedia community. I am an frequent contributor to [Wikidata](https://www.wikidata.org/) and participant in the [LD4 Wikidata Affinity Group](https://www.wikidata.org/wiki/Wikidata:WikiProject_LD4_Wikidata_Affinity_Group). I've developed software to assist users with bulk data uploads, developed instructional materials, and have given several workshops and presentations on this work. To learn more about my work with Wikidata, see the projects tab.
 
-![VanderBot cartoon](/img/vanderbot.png)
+<img src="/img/vanderbot.png" alt="VanderBot cartoon" width="600"><br/>
