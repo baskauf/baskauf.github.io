@@ -1,4 +1,9 @@
-
+---
+title: Connect
+subtitle: Contact me and find out what I'm working on
+layout: page
+show_sidebar: false
+---
 
 - Email: [steve.baskauf@vanderbilt.edu](mailto:steve.baskauf@vanderbilt.edu)
 - ORCID: [0000-0003-4365-3135](https://orcid.org/0000-0003-4365-3135)
