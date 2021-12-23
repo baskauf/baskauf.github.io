@@ -1,4 +1,13 @@
 - name: About
   link: /about/
+- name: Projects
+  link: #
+  items:
+    - name: Linked Open Data 
+      link: /lod/
+    - name: TDWG standards
+      link: /standards/
+    - name: Data education
+      link: /education/
 - name: Connect
   link: /connect/
