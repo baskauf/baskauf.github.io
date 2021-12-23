@@ -4,7 +4,7 @@ subtitle: homepage subtitle
 layout: page
 callouts: home_callouts
 show_sidebar: true
-hero_height: is-small # https://bulma.io/documentation/layout/hero/
+hero_image: /img/recipe-example.jpg
 ---
 
 # Steve Baskauf homepage
