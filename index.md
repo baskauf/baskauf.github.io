@@ -1,6 +1,6 @@
 ---
 title: Steve Baskauf
-subtitle: Linked Data - biodiversity informatics - education
+subtitle: Linked Data - informatics - education
 layout: page
 callouts: home_callouts
 show_sidebar: true
