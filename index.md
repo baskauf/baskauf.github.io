@@ -23,7 +23,7 @@ Baskauf, Steven J. 2021-11-19. **Who’s the artist and who gets to decide? Iden
 
 Baskauf, Steve, Charlotte Lew, and Anne Richardson. 2021-10-30. **Linking the Art in the Christian Tradition (ACT) database to Wikidata**. WikidataCon 2021. Online. Presentation: <https://commons.wikimedia.org/wiki/File:Linking_the_Art_in_the_Christian_Tradition_(ACT)_database_to_Wikidata.pdf>
 
-Baskauf, Steve and Kali Mason. 2021-10-26. **Working with Wikidat**a**. Southeastern Museums Conference Annual Meeting. Chattanooga, Tennessee, USA. October 26, 2021. Presentation: <https://doi.org/10.6084/m9.figshare.16880539>
+Baskauf, Steve and Kali Mason. 2021-10-26. **Working with Wikidata**. Southeastern Museums Conference Annual Meeting. Chattanooga, Tennessee, USA. October 26, 2021. Presentation: <https://doi.org/10.6084/m9.figshare.16880539>
 
 Baskauf, Steven J. 2021-10-18. **Having your cake and eating it too: JSON-LD as an RDF serialization format** in Connecting biodiversity data with knowledge graphs (symposium). Biodiversity Information Standards Annual Meeting. Online. <https://doi.org/10.3897/biss.5.74266>. Presentation: <https://doi.org/10.6084/m9.figshare.16823473>
 
