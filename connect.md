@@ -1,6 +1,6 @@
 ---
 title: Connect
-subtitle: Contact me and find out what I'm working on
+subtitle: Find out what I'm working on and get in touch
 layout: page
 show_sidebar: false
 ---

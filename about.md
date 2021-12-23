@@ -22,7 +22,7 @@ My work in the DiSC office involves helping faculty, staff, and students build d
 
 You can learn more about some of these efforts through the projects tab.
 
-<img src="/img/student_help.jpg" alt="Working with a student at Vanderbilt" width="400"><br/><br/>
+<img src="/img/student_help.jpg" alt="Working with a student at Vanderbilt" width="400"><br/>
 <small>Photo: John Russell/Vanderbilt University</small>
 
 # Professional contributions

@@ -17,4 +17,4 @@ There are existing tools for uploading images to Commons, but Commonsbot not onl
 
 For example, one of our works whose [image was uploaded to Commons](https://commons.wikimedia.org/wiki/File:Unsigned_album_paintings_depicting_Taoist_immortals_-_Vanderbilt_Fine_Arts_Gallery_-_1995.008.tif) is now linked to its Wikidata item: <https://www.wikidata.org/wiki/Q104032737>. 
 
-We can now do fun stuff with the images like create SPARQL-based visualizations such as an [image grid showing Kress collection works donated to the Gallery in the 1960's](https://w.wiki/4XWH). 
+We can now do fun stuff with the images like create SPARQL-based visualizations such as an [image grid showing Kress collection works donated to the Gallery in the 1960's](https://w.wiki/4XWG). 
