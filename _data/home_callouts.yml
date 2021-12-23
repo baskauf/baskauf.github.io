@@ -1,4 +1,5 @@
 style: is-light
+height: is-small
 items:
   - title: Linked Open Data
     subtitle: Wikidata, RDF, JSON-LD
