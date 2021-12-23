@@ -14,7 +14,6 @@ permalink: pretty
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
-hero_height: is-small # https://bulma.io/documentation/layout/hero/
 
 paginate: 5
 paginate_path: "/blog/page:num"
