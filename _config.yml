@@ -16,7 +16,7 @@ permalink: pretty
 #fixed_navbar: top
 
 paginate: 5
-paginate_path: "/blog/page:num"
+paginate_path: "/news/page:num"
 
 # Disqus Comments
 disqus:
