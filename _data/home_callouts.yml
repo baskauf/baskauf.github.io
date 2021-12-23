@@ -5,14 +5,14 @@ items:
     subtitle: Wikidata, RDF, JSON-LD
     icon: fa-project-diagram
     call_to_action_name: link
-    call_to_action_link: /page-1/
+    call_to_action_link: /lod/
   - title: biodiversity informatics
     subtitle: TDWG standards development
     icon: fa-bug
     call_to_action_name: explore
-    call_to_action_link: /page-2/
+    call_to_action_link: /standards/
   - title: data science education
     subtitle: Python, R, GitHub
     icon: fa-chalkboard-teacher
     call_to_action_name: learn
-    call_to_action_link: /page-3/
+    call_to_action_link: /education/

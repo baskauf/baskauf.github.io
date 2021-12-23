@@ -9,5 +9,7 @@
       link: /standards/
     - name: Data education
       link: /education/
+- name: News
+  link: /blog/
 - name: Connect
   link: /connect/
