@@ -47,7 +47,8 @@ Working with my colleague Charlotte Lew, we have completed creation of all publi
 
 **[WikiProject Vanderbilt Fine Arts Gallery](https://www.wikidata.org/wiki/Wikidata:WikiProject_Vanderbilt_Fine_Arts_Gallery)**
 
-<img src="/img/Demon_Playing_a_Samisen,_With_Wine_Bottle_and_Drinking_Cup_in_Foreground_-_Vanderbilt_Fine_Arts_Gallery_-_1992.253.tif.jpg" alt="Demon Playing a Samisen" width="250">
+<img src="/img/Demon_Playing_a_Samisen,_With_Wine_Bottle_and_Drinking_Cup_in_Foreground_-_Vanderbilt_Fine_Arts_Gallery_-_1992.253.tif.jpg" alt="Demon Playing a Samisen" width="250"><br/>
+<small><a href="https://www.wikidata.org/wiki/Q105096111">Q105096111</a> Demon Playing a Samisen, With Wine Bottle and Drinking Cup in Foreground. 1992.253</small>
 
 Working with [Kali Mason](https://www.linkedin.com/in/kalimason1/), former registrar and collections manager of the [Vanderbilt University Fine Arts Gallery](https://www.library.vanderbilt.edu/gallery/), I used data from the [Gallery's ArtStor database](https://library.artstor.org/#/collection/100140247) to create Wikidata items for all 6888 works in the collection.  
 
@@ -55,4 +56,5 @@ Working with [Kali Mason](https://www.linkedin.com/in/kalimason1/), former regis
 
 **[WikiProject Art in the Christian Tradition (ACT)](https://www.wikidata.org/wiki/Wikidata:WikiProject_Art_in_the_Christian_Tradition_(ACT))**
 
-<img src="/img/640px-Wilhelm_Morgner_001.jpg" alt="Entry into Jerusalem" width="350">
+<img src="/img/640px-Wilhelm_Morgner_001.jpg" alt="Entry into Jerusalem" width="350"><br/>
+<small>Wilhelm Morgner. 1912. Entry of Jesus into Jerusalem.</small> 
