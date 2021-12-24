@@ -39,6 +39,10 @@ I play a significant role in three ongoing WikiProjects operating out of the Van
 
 <img src="/img/vandycite_workflow.png" alt="researcher input workflow" width="400">
 
+Starting in late 2019, I began developing the VanderBot script for the purpose of creating or enhancing Wikidata items about Vanderbilt University researchers and scholars. By July 2020, I had created or curated records for over 4500 researchers, which included all faculty and most postdocs and research staff at the university. (This phase of the project is described more fully [here](https://github.com/HeardLibrary/linked-data/blob/master/vanderbot/researcher-project.md). This led to a broader effort, [WikiProject VandyCite](https://www.wikidata.org/wiki/Wikidata:WikiProject_VandyCite), to upload and link publications to these researchers. 
+
+Working with my colleague Charlotte Lew, we have completed creation of all publications with DOIs authored by Divinity School faculty. We will continue to expand this effort to other types of publications and other parts of the university.
+
 ------
 
 **[WikiProject Vanderbilt Fine Arts Gallery](https://www.wikidata.org/wiki/Wikidata:WikiProject_Vanderbilt_Fine_Arts_Gallery)**
