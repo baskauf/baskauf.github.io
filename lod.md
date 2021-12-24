@@ -3,6 +3,8 @@ title: Linked Open Data
 subtitle: Wikidata, RDF, and JSON-LD
 layout: page
 show_sidebar: false
+toc: true
+toc_title: Projects
 ---
 
 <img src="/img/wikidata-logo.png" alt="Wikidata logo" width="200"><br/>
@@ -29,16 +31,22 @@ I contributed to the project through scriptwriting, Twine programming, and workf
 
 ## WikiProjects
 
-At the Vanderbilt Libraries, we have three ongoing WikiProjects to enter data related to Vanderbilt resources. 
+I play a significant role in three ongoing WikiProjects operating out of the Vanderbilt Libraries.
 
-[WikiProject VandyCite](https://www.wikidata.org/wiki/Wikidata:WikiProject_VandyCite) 
+------
+
+### [WikiProject VandyCite](https://www.wikidata.org/wiki/Wikidata:WikiProject_VandyCite) 
 
 <img src="/img/vandycite_workflow.png" alt="researcher input workflow" width="400">
 
-[WikiProject Vanderbilt Fine Arts Gallery](https://www.wikidata.org/wiki/Wikidata:WikiProject_Vanderbilt_Fine_Arts_Gallery)
+------
 
-<img src="/img/Demon_Playing_a_Samisen,_With_Wine_Bottle_and_Drinking_Cup_in_Foreground_-_Vanderbilt_Fine_Arts_Gallery_-_1992.253.tif.jpg" alt="Demon Playing a Samisen" width="400">
+### [WikiProject Vanderbilt Fine Arts Gallery](https://www.wikidata.org/wiki/Wikidata:WikiProject_Vanderbilt_Fine_Arts_Gallery)
 
-[WikiProject Art in the Christian Tradition (ACT)](https://www.wikidata.org/wiki/Wikidata:WikiProject_Art_in_the_Christian_Tradition_(ACT)) 
+<img src="/img/Demon_Playing_a_Samisen,_With_Wine_Bottle_and_Drinking_Cup_in_Foreground_-_Vanderbilt_Fine_Arts_Gallery_-_1992.253.tif.jpg" alt="Demon Playing a Samisen" width="300">
+
+------
+
+### [WikiProject Art in the Christian Tradition (ACT)](https://www.wikidata.org/wiki/Wikidata:WikiProject_Art_in_the_Christian_Tradition_(ACT)) 
 
 <img src="/img/640px-Wilhelm_Morgner_001.jpg" alt="Entry into Jerusalem" width="400">
