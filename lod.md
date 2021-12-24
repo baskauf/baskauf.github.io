@@ -33,7 +33,7 @@ At the Vanderbilt Libraries, we have three ongoing WikiProjects to enter data re
 
 [WikiProject VandyCite](https://www.wikidata.org/wiki/Wikidata:WikiProject_VandyCite) 
 
-<img src="/img/640px-Wilhelm_Morgner_001.jpg" alt="Learn Wikidata splash screen" width="400">
+<img src="/img/vandycite_workflow.png" alt="researcher input workflow" width="400">
 
 [WikiProject Vanderbilt Fine Arts Gallery](https://www.wikidata.org/wiki/Wikidata:WikiProject_Vanderbilt_Fine_Arts_Gallery)
 
