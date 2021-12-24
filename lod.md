@@ -49,6 +49,8 @@ Working with my colleague Charlotte Lew, we have completed creation of all publi
 
 <img src="/img/Demon_Playing_a_Samisen,_With_Wine_Bottle_and_Drinking_Cup_in_Foreground_-_Vanderbilt_Fine_Arts_Gallery_-_1992.253.tif.jpg" alt="Demon Playing a Samisen" width="250">
 
+Working with [Kali Mason](https://www.linkedin.com/in/kalimason1/), former registrar and collections manager of the [Vanderbilt University Fine Arts Gallery](https://www.library.vanderbilt.edu/gallery/), I used data from the [Gallery's ArtStor database](https://library.artstor.org/#/collection/100140247) to create Wikidata items for all 6888 works in the collection.  
+
 ------
 
 **[WikiProject Art in the Christian Tradition (ACT)](https://www.wikidata.org/wiki/Wikidata:WikiProject_Art_in_the_Christian_Tradition_(ACT))**
