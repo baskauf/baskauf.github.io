@@ -107,6 +107,6 @@ Because of its built-in capabilities for denoting preferred labels in multiple l
 
 ## Regions of Interest within media items
 
-<img src="/img/roi.png" alt="JSON-LD representation of SKOS" width="350">
+<img src="/img/roi.png" alt="JSON-LD representation of SKOS" width="400" boarder=1>
 
 In 2021, the Audubon Core multimedia metadata standard [adopted terms for describing regions of interest (ROIs) within media items](https://github.com/tdwg/ac/milestone/4?closed=1). This introduced an additional layer of complexity to the representation of media metadata using the Audubon Core vocabulary and I used [JSON-LD to express the links](https://github.com/tdwg/ac/blob/master/roi-recipes.md) between the media items, their service access points, and ROIs with the items.
