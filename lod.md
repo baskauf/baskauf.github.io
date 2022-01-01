@@ -91,3 +91,22 @@ Cam Web and I developed the Darwin-SW (DSW) ontology in parallel with the Darwin
 
 For more information, see our paper at <http://dx.doi.org/10.3233/SW-150203> (open access at <http://bit.ly/2dG85b5>).
 
+# JSON-LD
+
+I'm interested in figuring out how [JSON-LD](https://json-ld.org/) can be used to bridge the gap between developers and the Linked Data world in the context of biodiversity informatics. For some of my thoughts on the subject, see [this presentation](https://doi.org/10.3897/biss.5.74266). 
+
+------
+
+## SKOS controlled vocabularies serialized as JSON-LD
+
+<img src="/img/skos_translations.png" alt="JSON-LD representation of SKOS" width="350">
+
+Because of its built-in capabilities for denoting preferred labels in multiple languages, the [Simple Knowledge Organization System (SKOS)](https://www.w3.org/TR/skos-primer/) is an ideal way to express translations of controlled vocabularies. When serialized as JSON-LD, machine-readable metadata can either be consumed by conventional applications as JSON, or loaded directly into a triplestore as RDF. I have made multilingual labels and definitions available for six TDWG controlled vocabularies as standardized, machine-readable [JSON-LD files](https://tdwg.github.io/rs.tdwg.org/) by [scripting their conversion from CSV tables](https://github.com/tdwg/rs.tdwg.org/blob/gh-pages/cvJson/build_json_ld_for_controlled_vocabularies.ipynb). 
+
+------
+
+## Regions of Interest within media items
+
+<img src="/img/roi.png" alt="JSON-LD representation of SKOS" width="350">
+
+In 2021, the Audubon Core multimedia metadata standard [adopted terms for describing regions of interest (ROIs) within media items](https://github.com/tdwg/ac/milestone/4?closed=1). This introduced an additional layer of complexity to the representation of media metadata using the Audubon Core vocabulary and I used [JSON-LD to express the links](https://github.com/tdwg/ac/blob/master/roi-recipes.md) between the media items, their service access points, and ROIs with the items.
