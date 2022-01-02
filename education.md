@@ -21,7 +21,13 @@ Most lessons are organized around a self-paced system dubbed [CodeGraf](http://v
 
 <img src="/img/python-logo-cropped.png" alt="Python logo" width="200"><br/>
 
-text
+The following [Python lesson series](https://heardlibrary.github.io/digital-scholarship/script/codegraf/python/) are available in the CodeGraf framework:
+
+- [Introduction to coding with Python](https://heardlibrary.github.io/digital-scholarship/script/codegraf/python/intro/)
+- [Working with files and tables(including an introduction to Pandas)](https://heardlibrary.github.io/digital-scholarship/script/codegraf/python/filestables/)
+- [Introductory lesson for plotting with Pyplot](https://heardlibrary.github.io/digital-scholarship/script/codegraf/010/)
+
+I've also developed materials for [using Python for web scraping and interacting with APIs](https://heardlibrary.github.io/digital-scholarship/script/python/archive/#archive-of-apiweb-scraping-lessons---fall-2019). 
 
 ------
 
