@@ -13,6 +13,8 @@ To view current lesson offerings, see the Digital Scholarship and Communications
 
 # CodeGraf
 
+<img src="/img/codegraf_concept.png" alt="CodeGraph flow chart" width="400"><br/>
+
 Most lessons are organized around a self-paced system dubbed [CodeGraf](http://vanderbi.lt/codegraf). Each CodeGraf lesson contains a series of short 3-6 minute instructional videos, supplemented with TLDR main points and code snippets. The lesson concludes with a set of exercises for practice. A user can work through lesson series as part of a synchronous class, or make their own path through the lessons asynchronously in the style of "choose your own adventure".
 
 ------
