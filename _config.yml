@@ -2,10 +2,10 @@
 remote_theme: chrisrhymes/bulma-clean-theme
 lang: en
 title: Steve Baskauf
-tagline: Bulma Clean Theme
+tagline: Vanderbilt University Libraries
 email: steve.baskauf@vanderbilt.edu
 description: >
-  Publications, projects, and amusements
+  Professional website
 baseurl: "/"
 url: "https://baskauf.github.io"
 permalink: pretty
