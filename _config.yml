@@ -9,7 +9,7 @@ description: >
 baseurl: "/"
 url: "https://baskauf.github.io"
 permalink: pretty
-favicon: favicon.ico
+#favicon: favicon.ico
 #gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
