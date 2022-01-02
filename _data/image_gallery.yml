@@ -1,10 +1,10 @@
 - title: Instagram images
   images:
-    - link: https://scontent-ort2-1.cdninstagram.com/v/t51.2885-15/e35/11349406_884826804886592_2070561436_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=_QFQ9hr-B6oAX-rYS3-&edm=AP_V10EBAAAA&ccb=7-4&oh=00_AT992fgmtYV6p47eLzGRpbO60qA0fDyiKIObrF6wNE4fIg&oe=61D9B3F9&_nc_sid=4f375e
+    - link: /gallery/2015-06-14.jpg
       large_link: https://www.instagram.com/p/6oTQbrucSp/
-      alt: Thildren in the medina, Chefchaouen Morocco
+      alt: Children in the medina, Chefchaouen Morocco
       description: Children in the medina, Chefchaouen Morocco
-      ratio: is-16by9
+      ratio: is-square
     - link: https://via.placeholder.com/400x300
       large_link: https://via.placeholder.com/1200x900
       alt: The alt text for the image
