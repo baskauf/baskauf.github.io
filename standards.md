@@ -22,5 +22,14 @@ Since 2010 I've been an active participant in [Biodiversity Information Standard
 
 ## Darwin Core
 
-a
+<img src="/img/occurrence_map.jpg" alt="organism occurrence map" width="400"><br/>
+<small>Map of organism occurrences recorded in <a href="https://www.gbif.org/">GBIF</a> 31 Dec 2021</small>
+
+[Darwin Core](https://www.tdwg.org/standards/dwc/) is the flagship TDWG vocubulary for describing the distribution of organisms around the earth and is used to describe [over a billion occurrences](https://www.gbif.org/). My first major contribution to Darwin Core was as the lead author of the [Darwin Core RDF Guide](http://rs.tdwg.org/dwc/terms/guides/rdf/) in 2015. I've been a part of the Darwin Core Maintenance Group since its organization in 2017. In that role, I've developed a lot of the organizational and technical infrastructure used to manage the standard. In particular, I was the lead author of the [TDWG Vocabulary Maintenance Specification](http://rs.tdwg.org/vms/doc/specification/), which describes how all TDWG vocabularies should be managed.
+
+------
+
+## Technical Architecture
+
+
 
