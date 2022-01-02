@@ -29,7 +29,7 @@ For more information about this approach to managing data in Wikidata, see [Bask
 
 In 2020, a team of librarians from Vanderbilt received a [WikiCite grant funded by the Alfred P. Sloan Foundation](https://meta.wikimedia.org/wiki/Wikicite/grant/WikiCite_for_Librarians:_Interactive_Learning_Pathways_for_Information_Professionals) to produce a series of interactive learning modules for Wikidata beginners. These self-paced lessons are geared towards information professionals, but usable by anyone.
 
-<img src="/img/learn_wikidata.png" alt="Learn Wikidata splash screen" width="400"><br/>
+<img src="/img/learn_wikidata.png" alt="Learn Wikidata splash screen" width="400">
 
 I contributed to the project through scriptwriting, Twine programming, and workflow management. To try out the lessons, visit <https://learnwikidata.net/> .
 

@@ -5,4 +5,22 @@ layout: page
 show_sidebar: false
 ---
 
-content
+# Contributions to Biodiversity Information Standards
+
+Since 2010 I've been an active participant in [Biodiversity Information Standards (TDWG)](https://www.tdwg.org/), the international organization that develops standards to enable more effective sharing of knowledge about biodiversity. I've had leadership roles in several initiatives within the organization. 
+
+------
+
+## Audubon Core
+
+<img src="/img/ac_bird.jpg" alt="Audubon Core parrot" width="400"><br/>
+<small>Image by <a href="https://unsplash.com/photos/gGC63oug3iY">Mikhail Vasilyev</a></small>
+
+[Audubon Core](https://www.tdwg.org/standards/ac/) is the TDWG standard for describing biodiversity-related multimedia. During ratification of the standard in 2013, I served as the review manager. I was responsible for recruiting expert reviewers, running the public review, and working with the authors to revise the standard in light of the reviews. From 2018 to 2021, I was the inagural convener of the Audubon Core Maintenance Group. In that role, I recruited members for the group, carried out a cleanup of the documentation, led the development of the [first three controlled vocabularies](https://www.tdwg.org/standards/ac/#parts%20of%20the%20standard) used with the core vocabulary, and led the effort to create terms for describing [regions of interest](https://github.com/tdwg/ac/blob/master/roi-recipes.md) within a media item. From 2019 to the present, I've been the convener of a [task group charged with developing controlled vocabularies to describe the subject part and orientation of images](https://github.com/tdwg/ac/tree/master/views).
+
+------
+
+## Darwin Core
+
+a
+
