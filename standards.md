@@ -31,5 +31,6 @@ Since 2010 I've been an active participant in [Biodiversity Information Standard
 
 ## Technical Architecture
 
+In 2017, I was the lead author of the [TDWG Standards Documentation Specification (SDS)](http://rs.tdwg.org/sds/doc/specification/), which describes how human- and machine-readable standards documents should be structured in TDWG standards. Following its adoption, I lead the ongoing effort to develop the technical infrastructure necessary to implement the specification. I created a system where standards metadata are archived as CSV files in a [GitHub repository](https://github.com/tdwg/rs.tdwg.org). Those data are loaded into a server application that I designed that can serve dynamically generated machine-readable RDF representations when requested through content negotiation, or redirect to human-readable "list of terms" documents that are also generated from the same CSV tables. I wrote the Python scripts to generate those list of terms documents as well as other scripts used in the pipeline for processing changes to vocabularies. 
 
-
+In 2021, I was elected to the TDWG Executive Committee, serving as the chair of the Technical Architecture Group (TAG). 
