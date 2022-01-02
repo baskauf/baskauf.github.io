@@ -47,4 +47,11 @@ The following [R lesson series](https://heardlibrary.github.io/digital-scholarsh
 
 <img src="/img/GitHub_Logo_on_white.png" alt="GitHub logo" width="300"><br/>
 
-text
+The following lesson series is available in the CodeGraf format:
+
+- [Introduction to GitHub](https://heardlibrary.github.io/digital-scholarship/script/codegraf/github/intro/) (using GitHub Desktop; no command line)
+
+Additional lessons without videos are available for:
+
+- [Managing a website with GitHub Pages](https://heardlibrary.github.io/digital-scholarship/manage/control/github/pages/)
+- [Managing projects with GitHub](https://heardlibrary.github.io/digital-scholarship/manage/control/github/projects/)
