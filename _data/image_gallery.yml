@@ -1,26 +1,15 @@
 - title: Instagram images
   images:
     - link: /gallery/2015-06-14.jpg
-      large_link: https://www.instagram.com/p/6oTQbrucSp/
       alt: Children in the medina, Chefchaouen Morocco
       description: Children in the medina, Chefchaouen Morocco
       ratio: is-square
-    - link: https://via.placeholder.com/400x300
-      large_link: https://via.placeholder.com/1200x900
-      alt: The alt text for the image
-      description: The image description
-      ratio: is-4by3
-    - link: https://via.placeholder.com/400x300
-      large_link: https://via.placeholder.com/1200x900
-      alt: The alt text for the image
-      description: |-
-        ### A title
-
-        The *image* **description** can be longer and written in markdown too.
-
-        If you want to describe your image in more detail.
-
-        * Item 1
-        * Item 2
-      ratio: is-4by3
+    - link: /gallery/2015-06-18.jpg
+      alt: Eiffel Tower, Paris, France
+      description: Eiffel Tower, Paris, France
+      ratio: is-square
+    - link: /gallery/2016-05-29.jpg
+      alt: Inner Basin Trail, Flagstaff, Arizona
+      description: Inner Basin Trail, Flagstaff, Arizona
+      ratio: is-square
 
