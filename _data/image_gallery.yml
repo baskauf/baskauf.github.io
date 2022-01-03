@@ -1,15 +1,15 @@
 - title: Instagram images
   images:
     - link: /gallery/2015-06-14.jpg
-      alt: Children in the medina, Chefchaouen Morocco
-      description: Children in the medina, Chefchaouen Morocco
+      alt: Children in the medina, Chefchaouen Morocco, 2015
+      description: Children in the medina, Chefchaouen Morocco, 2015
       ratio: is-square
     - link: /gallery/2015-06-18.jpg
-      alt: Eiffel Tower, Paris, France
-      description: Eiffel Tower, Paris, France
+      alt: Eiffel Tower, Paris, France, 2015
+      description: Eiffel Tower, Paris, France, 2015
       ratio: is-square
     - link: /gallery/2016-05-29.jpg
-      alt: Inner Basin Trail, Flagstaff, Arizona
-      description: Inner Basin Trail, Flagstaff, Arizona
+      alt: Inner Basin Trail, Flagstaff, Arizona, 2016
+      description: Inner Basin Trail, Flagstaff, Arizona, 2016
       ratio: is-square
 
