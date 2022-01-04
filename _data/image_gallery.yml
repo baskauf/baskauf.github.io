@@ -1,4 +1,4 @@
-- title: Instagram images
+- title: Images from @baskaufs Instagram
   images:
     - link: /gallery/2015-06-14.jpg
       alt: Children, Chefchaouen, Morocco, 2015
@@ -23,5 +23,29 @@
     - link: /gallery/2018-03-10_small.jpg
       alt: Lower Manhattan from the ferry, 2018
       description: Lower Manhattan from the ferry, 2018
+      ratio: is-square
+    - link: /gallery/2016-05-25_small.jpg
+      alt: Chollas, Saguaro Natl. Park, Arizona, 2016
+      description: Chollas, Saguaro Natl. Park, Arizona, 2016
+      ratio: is-square
+    - link: /gallery/ottawa_glass.jpg
+      alt: Glass, Ottawa, Canada, 2018
+      description: Glass, Ottawa, Canada, 2018
+      ratio: is-square
+    - link: /gallery/2021-07-11.jpg
+      alt: Olympic National Park, Washington, 2021
+      description: Olympic National Park, Washington, 2021
+      ratio: is-square
+    - link: /gallery/2018-03-10a_small.jpg
+      alt: World Trade Center, New York, 2018
+      description: World Trade Center, New York, 2018
+      ratio: is-square
+    - link: /gallery/2016-03-26.jpg
+      alt: Sycamore Creek bridge, Tennessee, 2018
+      description: Sycamore Creek bridge, Tennessee, 2018
+      ratio: is-square
+    - link: /gallery/2020-06-23_small.jpg
+      alt: Azaleas, Roan Mountain, Tennessee, 2020
+      description: Azaleas, Roan Mountain, Tennessee, 2020
       ratio: is-square
 
