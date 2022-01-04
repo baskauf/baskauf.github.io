@@ -13,5 +13,7 @@
   link: /news/
 - name: Gallery
   link: /gallery/
+- name: CV
+  link: /cv/
 - name: Connect
   link: /connect/

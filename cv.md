@@ -5,13 +5,11 @@ layout: page
 show_sidebar: false
 ---
 
-**STEVEN J. BASKAUF**\
 Data Science and Data Curation Specialist\
 Jean & Alexander Heard Libraries\
 Vanderbilt University\
-Nashville, TN  37235\
-(615) 343-4582\
-Email: steve.baskauf\@vanderbilt.edu
+Nashville, TN 37235\
+Email: [steve.baskauf\@vanderbilt.edu](mailto:steve.baskauf@vanderbilt.edu)
 
 **EDUCATION:**\
 Ph.D. in biology, December 1999 under the direction of David E.
@@ -25,12 +23,11 @@ BA in chemistry and biology, 1982.\
 Bluffton College, Bluffton, Ohio.
 
 **EMPLOYMENT HISTORY:**\
-[Data Science and Data Curation
-Specialist]{style="text-decoration: underline"}. Jean & Alexander Heard
+*Data Science and Data Curation Specialist* . Jean & Alexander Heard
 Libraries, Vanderbilt University, Nashville, TN. I work in the Digital
-Scholarship and Scholarly Communications Office (2018 -- present)
+Scholarship and Scholarly Communications Office (Librarian II 2018-21, Librarian III 2021-present)
 
-[Senior Lecturer]{style="text-decoration: underline"}, Vanderbilt
+*Senior Lecturer*, Vanderbilt
 University, Nashville, TN (course: Introduction to Biological Sciences
 Laboratory 1510L, 1511L, and 1512L).  Supervised labs covering ecology,
 genetics, and cellular, molecular, and organismal biology. Developed and
@@ -40,14 +37,14 @@ wrote assignments and online tests, supervised 3 staff members and 12 or
 more TAs per semester. (Lecturer 2000-02, Sr. Lecturer 2002-17,
 Principal Senior Lecturer 2017-18)
 
-[Lecturer ]{style="text-decoration: underline"}(part-time), Vanderbilt
+*Lecturer* (part-time), Vanderbilt
 University, Nashville, TN (course: Introduction to Biology). Prepared
 and delivered lectures on a wide range of biological topics, created
 HTML lecture notes that were used for in-class delivery as well as for
 student review via the Web, developed laboratory exercises emphasizing
 inquiry and experimental design, prepared assignments. (1999-2000)
 
-[Graduate student]{style="text-decoration: underline"}, Vanderbilt
+*Graduate student*, Vanderbilt
 University, Nashville, TN.  Conducted field and laboratory research
 investigating range-limiting factors of the southwestern corn borer. 
 Supervised two undergraduate research projects.  Used ArcView GIS for
@@ -55,18 +52,18 @@ data analysis and presentation.  Established relationships with about
 sixty cooperators ranging from Arizona to Nebraska, Indiana, and
 Georgia.  (1993-99)
 
-[Teaching assistant]{style="text-decoration: underline"} in Introduction
+*Teaching assistant* in Introduction
 to Biological Sciences and General Biology. Presented laboratory
 introductions, supervised laboratory exercises, prepared multimedia
 tutorials, and prepared equipment and supplies. (1993-98)
 
-[Science Teacher]{style="text-decoration: underline"}, Harpeth High
+*Science Teacher*, Harpeth High
 School, Kingston Springs, TN.  Taught chemistry, physics, and physical
 science.  Other responsibilities included being chair of the science
 department, chair of the faculty advisory committee, and advisor of the
 World Watch club and a student research group. (1987-93)
 
-[Science and Math Teacher]{style="text-decoration: underline"}, St.
+*Science and Math Teacher*, St.
 Joseph's High School, Mzimpofu, Swaziland, Africa (volunteer with
 Mennonite Central Committee). Subjects taught included physics,
 chemistry, biology, integrated science, mathematics, and computer
@@ -74,7 +71,7 @@ programming.  Other responsibilities included being chair of the science
 department, supervising two student teachers, and preparing students for
 writing the Cambridge O-Level Examination.  (1983-86)
 
-[Science Teacher]{style="text-decoration: underline"}, Ridgemont High
+*Science Teacher*, Ridgemont High
 School, Ridgeway, Ohio.  Taught chemistry, physics and general science. 
 (1982-83)
 
