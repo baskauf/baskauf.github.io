@@ -27,7 +27,7 @@ Bluffton College, Bluffton, Ohio.
 Libraries, Vanderbilt University, Nashville, TN. I work in the Digital
 Scholarship and Scholarly Communications Office (Librarian II 2018-21, Librarian III 2021-present)
 
-*Senior Lecturer*, Vanderbilt
+*Principal Senior Lecturer*, Vanderbilt
 University, Nashville, TN (course: Introduction to Biological Sciences
 Laboratory 1510L, 1511L, and 1512L).  Supervised labs covering ecology,
 genetics, and cellular, molecular, and organismal biology. Developed and
