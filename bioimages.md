@@ -11,11 +11,11 @@ show_sidebar: false
 
 # <http://bioimages.vanderbilt.edu/>
 
-I started the Bioimages website in 2002 with the goal of making high quality images of living plants and other organisms freely available for non-commercial use. My goal was to photograph the organisms systematically in a standardized way to make the images useful for identification and learning. Within a few years, the site included images of most common trees of the interior southeastern U.S. and flowering herbaceous plants of middle Tennessee. I also created an [interactive map of North American ecoregions](http://bioimages.vanderbilt.edu/ecoframe-map.htm) showing typical habitat views and common organisms. 
+I started the Bioimages website in 2002 with the goal of making high quality images of living plants and other organisms freely available for non-commercial use. My goal was to photograph the organisms systematically in a standardized way to make the images useful for identification and learning. Within a few years, the site included images of most of the [common trees of the interior southeastern U.S.](http://bioimages.vanderbilt.edu/metadata.htm?//se-trees/list/se-trees) and [flowering herbaceous plants of middle Tennessee](http://bioimages.vanderbilt.edu/metadata.htm?//tn-herbs/list/tn-herbs). I also created an [interactive map of North American ecoregions](http://bioimages.vanderbilt.edu/ecoframe-map.htm) showing typical habitat views and common organisms. 
 
 ![North Americal ecoregions](/img/ecoregions-web.gif)
 
-Currently the site has 16241 images representing 3557 individual organisms of 1219 taxa. Of those images, over 12000 are Open Data with a Creative Commons CC BY or CC0 license.  I've photographed approximately 10000 of the images in the collection. In the website's first twelve years, it had over 10 million page views (I've stopped tracking since then).
+Currently the site has 16241 images representing 3557 individual organisms of 1219 taxa. Of those images, over 12000 are Open Data with a Creative Commons CC BY or CC0 license.  I photographed approximately 10000 of the images in the collection. In the website's first twelve years, it had over 10 million page views (I've stopped tracking since then).
 
 ## Uses of the collection
 
