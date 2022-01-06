@@ -152,6 +152,11 @@ expressing biodiversity data as RDF. Semantic Web Journal 7:629-243.\
 <http://dx.doi.org/10.3233/SW-150203> (open access at
 <http://bit.ly/2dG85b5>)
 
+Baskauf,S., J. Wieczorek, J. Deck, C. Webb, P. J. Morris, M.
+Schildhauer. (2015) Darwin Core RDF Guide. Biodiversity Information
+Standards (TDWG). 
+<http://rs.tdwg.org/dwc/terms/guides/rdf/>
+
 Walls RL, Deck J, Guralnick R, Baskauf S, Beaman R, et al. (2014)
 Semantics in Support of Biodiversity Knowledge Discovery: An
 Introduction to the Biological Collections Ontology and Related
@@ -160,9 +165,9 @@ Ontologies. PLoS ONE 9(3):e89606.
 
 Baskauf, SJ (2010) Organization of occurrence-related biodiversity
 resources based on the process of their creation and the role of
-individual organisms as resource relationship nodes.  *[Biodiversity
+individual organisms as resource relationship nodes. Biodiversity
 Informatics
-7:17-44](https://journals.ku.edu/index.php/jbi/article/view/3664)*.
+7:17-44. <https://doi.org/10.17161/bi.v7i1.3664>.
 
 Baskauf, SJ and BK Kirchoff (2008) Digital plant images as specimens:
 toward standards for photographing living plants.  *[Vulpina
@@ -180,15 +185,6 @@ mortality as a range-limiting factor for the southwestern corn borer
 
 **Contributions to non-peer-reviewed electronic and print
 publications**\
-Bioimages website. An internationally recognized source of over 10000
-biological images (representing over 1000 species) for educators and
-educational information for the public on biologically related topics. 
-The site averages about 1.5 million page views per year.  My role is the
-web developer and I have contributed over 95% of the images.\
-<http://bioimages.vanderbilt.edu/>\
-Reviewed in:
-<http://www.biotechniques.com/news/biotechniquesNews/biotechniques-301089.html>
-
 Blebin, L., G. Kampmeier, D. Endresen, and S. Baskauf. 2021. Guidelines
 for Review Managers of Proposed TDWG Standards. Biodiversity Information
 Standards (TDWG). <https://www.tdwg.org/about/review-managers/>
@@ -200,12 +196,6 @@ Semantic Web Vol. 33, IOS Press/AKA Verlag. [ISBN:
 978-1-61499-853-2](https://www.iospress.nl/book/application-of-semantic-technology-in-biodiversity-science/).
 Freely available in [Vanderbilt's institutional
 repository](http://hdl.handle.net/1803/9296).
-
-Baskauf,S., J. Wieczorek, J. Deck, C. Webb, P. J. Morris, M.
-Schildhauer. 2015. *Darwin Core RDF Guide*. Biodiversity Information
-Standards (TDWG). This is a ratified addition to the Darwin Core
-international standard for biodiversity information exchange.\
-<http://rs.tdwg.org/dwc/terms/guides/rdf/>
 
 Baskauf, S.  An RDF Primer (video).  This video was a prologue to the
 Semantics of Biodiversity Symposium at the 2013 Annual Conference of
@@ -234,13 +224,6 @@ Baskauf, S. 2008. Images and taxonomic links. In B. K. Kirchoff, *Woody
 Plants of the Southeastern United States: A Field Botany Course on CD*.
 Missouri Botanical Garden Press, St. Louis, MO.
 
-Contributor of over 100 images to Kershner, B. et al. 2008. *National
-Wildlife Federation Field Guide to Trees of North America*.  Sterling
-Publishing Co., New York, as well as numerous other field guides, books,
-textbooks, magazines, and websites.  My plant images have also been
-featured on the covers of *Journal of Heredity* vol.100 (4; Jul/Aug
-2009), *Journal of Chemical Education* vol. 84 (6; Jun 2007), and *City
-Trees* (Jan/Feb 2009).
 
 **Grants received**\
 WikiCite for Librarians: Interactive Learning Pathways for Information
@@ -276,8 +259,7 @@ Presentation: <https://doi.org/10.6084/m9.figshare.17068088>
 
 Anderson C. and S. Baskauf. Project VandyCite: Using Wikidata to support
 research information management *in* Advancing Librarianship and
-Scholarly Communications. WikiCite 2020 Virtual Conference. October 28,
-2020. <https://youtu.be/sjYDCahrfGQ?t=1437>
+Scholarly Communications. WikiCite 2020 Virtual Conference. October 28, 2020. <https://youtu.be/sjYDCahrfGQ?t=1437>
 
 Baskauf, S. 2017. Introduction to Bioimages *in* Crowd-sourcing with a
 Human Face. Cultural Heritage at Scale, Vanderbilt University,
@@ -490,5 +472,3 @@ Meeting of the Southwestern Branch, Entomological Society of America.
 
 Baskauf, Steven J.  1993.  Graphical Special Relativity.  National
 Science Teachers Association National Convention.
-:::
-:::
