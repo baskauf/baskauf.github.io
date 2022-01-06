@@ -1,6 +1,6 @@
 ---
 title: About
-subtitle: Education, background, and interests
+subtitle: Education and background
 layout: page
 show_sidebar: false
 hero_image: /img/2015-10-05.jpg

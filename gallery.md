@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Images
+title: Image gallery
 description: Steve Baskauf Instagram images
 gallery: image_gallery
 show_sidebar: false
