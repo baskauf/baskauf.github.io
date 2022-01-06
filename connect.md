@@ -1,5 +1,6 @@
 ---
 title: Connect
+subtitle: Contact and media
 layout: page
 show_sidebar: false
 hero_image: /img/nebraska.jpg
