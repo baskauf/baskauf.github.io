@@ -25,4 +25,7 @@ Bioimages is also intended to be a demonstration of best practices for biodivers
 
 By expressing the metadata as about 1.5 million RDF triples, the linked data can be [queried using the SPARQL query language](https://github.com/HeardLibrary/semantic-web/blob/master/sparql/bioimages.md). 
 
-Images from Bioimages have been used to develop [interactive plant identification software](https://kirchoff.wp.uncg.edu/plant-identification/), [tree tours for portable devices](https://www.vanderbilt.edu/trees/tours/), to document biodiversity in the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/dataset/0096dfc0-9925-47ef-9700-9b77814295f1), as illustrations in numerous publications, and on websites throughout the Internet. 
+Images from Bioimages have been used to develop [interactive plant identification software](https://kirchoff.wp.uncg.edu/plant-identification/), [tree tours for portable devices](https://www.vanderbilt.edu/trees/tours/), to document biodiversity in the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/dataset/0096dfc0-9925-47ef-9700-9b77814295f1), on websites across the Internet, on the covers of magazines, and as illustrations in over 25 books and field guides, including over a hundred images in the *National Wildlife Federation Field Guide to Trees of North America*. 
+
+<img src="/img/bioimages_books.jpg" alt="books containing Bioimages" width="400"><br/>
+<small>A few of the books featuring images from Bioimages</small>
