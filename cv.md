@@ -3,6 +3,7 @@ title: CV
 subtitle: Steven J. Baskauf
 layout: page
 show_sidebar: false
+hero_image: /img/2018-03-06.jpg
 ---
 
 Data Science and Data Curation Specialist\
