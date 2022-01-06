@@ -7,5 +7,22 @@ gallery: bioimages_gallery
 show_sidebar: false
 ---
 
-text
+![Bioimages logo](/img/bioimages_logo.jpg)
 
+# <http://bioimages.vanderbilt.edu/>
+
+I started the Bioimages website in 2002 with the goal of making high quality images of living plants and other organisms freely available for non-commercial use. My goal was to photograph the organisms systematically in a standardized way to make the images useful for identification and learning. Within a few years, the site included images of most common trees of the interior southeastern U.S. and flowering herbaceous plants of middle Tennessee. I also created an [interactive map of North American ecoregions](http://bioimages.vanderbilt.edu/ecoframe-map.htm) showing typical habitat views and common organisms. 
+
+![North Americal ecoregions](/img/ecoregions-web.gif)
+
+Currently the site has 16241 images representing 3557 individual organisms of 1219 taxa. Of those images, over 12000 are Open Data with a Creative Commons CC BY or CC0 license.  I've photographed approximately 10000 of the images in the collection. 
+
+## Uses of the collection
+
+Bioimages is also intended to be a demonstration of best practices for biodiversity multimedia. Each image and organism is assigned a persistent, globally unique IRI identifier and has machine-readable RDF metadata avaialble via content negotiation. The images are 100% geolocated and identified taxonomically. The photos are also taken using standardized orientations, making it possible to compare the same part among different species. 
+
+![comparison of oak features](/img/compare_oaks.png)
+
+By expressing the metadata as about 1.5 million RDF triples, the linked data can be [queried using the SPARQL query language](https://github.com/HeardLibrary/semantic-web/blob/master/sparql/bioimages.md). 
+
+Images from Bioimages have been used to develop [interactive plant identification software](https://kirchoff.wp.uncg.edu/plant-identification/), [tree tours for portable devices](https://www.vanderbilt.edu/trees/tours/), to document biodiversity in the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/dataset/0096dfc0-9925-47ef-9700-9b77814295f1), as illustrations in numerous publications, and on websites throughout the Internet. 
