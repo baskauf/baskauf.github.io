@@ -16,8 +16,4 @@ items:
     icon: fa-chalkboard-teacher
     call_to_action_name: learn
     call_to_action_link: /education/
-  - title: Bioimages
-    subtitle: live plant images
-    icon: fa-pagelines
-    call_to_action_name: explore
-    call_to_action_link: /bioimages/
+
