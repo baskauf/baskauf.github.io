@@ -4,6 +4,7 @@ subtitle: Education, background, and interests
 layout: page
 show_sidebar: false
 hero_image: /img/2015-10-05.jpg
+hero_darken: true
 ---
 
 <img src="/img/stone_door.jpg" alt="Stone Door at Savage Gulf State Park, Tennessee" width="400"><br/>
