@@ -15,7 +15,7 @@ I started the Bioimages website in 2002 with the goal of making high quality ima
 
 ![North Americal ecoregions](/img/ecoregions-web.gif)
 
-Currently the site has 16241 images representing 3557 individual organisms of 1219 taxa. Of those images, over 12000 are Open Data with a Creative Commons CC BY or CC0 license.  I've photographed approximately 10000 of the images in the collection. 
+Currently the site has 16241 images representing 3557 individual organisms of 1219 taxa. Of those images, over 12000 are Open Data with a Creative Commons CC BY or CC0 license.  I've photographed approximately 10000 of the images in the collection. In the website's first twelve years, it had over 10 million page views (I've stopped tracking since then).
 
 ## Uses of the collection
 
