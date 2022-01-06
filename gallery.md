@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Images
-subtitle: Instagram @baskaufs
 description: Steve Baskauf Instagram images
 gallery: image_gallery
 show_sidebar: false
