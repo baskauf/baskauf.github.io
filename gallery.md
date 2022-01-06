@@ -5,6 +5,7 @@ subtitle: Instagram @baskaufs
 description: Steve Baskauf Instagram images
 gallery: image_gallery
 show_sidebar: false
+hero_image: /img/madrasa_ben_yousef.jpg
 ---
 
 [Visit @baskaufs on Instagram](https://www.instagram.com/baskaufs/)
