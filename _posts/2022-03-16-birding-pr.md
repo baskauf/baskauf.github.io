@@ -15,3 +15,5 @@ To read the post, visit [this link](http://baskauf.blogspot.com/2022/03/birding-
 
 ![Birding among Sierra palms in the El Yunque rainforest](../../../..//img/el_yunque.jpg)<br/>
 <small>Birding among Sierra palms in the El Yunque rainforest</small>
+
+Incidentally, this trip [marked the occasion of adding my 800th bird species to my life list](https://www.instagram.com/p/CbGurEFs5WM/)! 
