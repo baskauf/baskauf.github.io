@@ -27,3 +27,4 @@ Baskauf, Steve and Kali Mason. 2021-10-26. **Working with Wikidata**. Southeaste
 
 Baskauf, Steven J. 2021-10-18. **Having your cake and eating it too: JSON-LD as an RDF serialization format** in Connecting biodiversity data with knowledge graphs (symposium). Biodiversity Information Standards Annual Meeting. Online. <https://doi.org/10.3897/biss.5.74266>. Presentation: <https://doi.org/10.6084/m9.figshare.16823473>
 
+<iframe style="width:80vw; height:50vh;" scrolling="yes" frameborder="0" src="https://w.wiki/5ABg" ></iframe> 
