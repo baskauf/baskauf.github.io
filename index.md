@@ -35,6 +35,6 @@ Baskauf, Steven J. 2021-10-18. **Having your cake and eating it too: JSON-LD as 
 
 # Co-author map
 
-<iframe style="width:55vw; height:50vh;" scrolling="yes" frameborder="0" src="https://w.wiki/5APp</iframe> 
+<iframe style="width:55vw; height:50vh;" scrolling="yes" frameborder="0" src="https://w.wiki/5APp" ></iframe> 
 
 [Explore Wikidata query](https://w.wiki/5APu) from [Scholia](https://scholia.toolforge.org/).
