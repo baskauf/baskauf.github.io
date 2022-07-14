@@ -19,9 +19,11 @@ Baskauf, Steven J. and Campbell O. Webb.  2016. Darwin-SW: **Darwin Core-based t
 
 # Recent presentations
 
-Baskauf, Steven J. 2021-11-19. **Who’s the artist and who gets to decide? Identity management in Wikidata, where “anyone can edit”** in Art in Context: Identity, Ethics, and Insight. Art Information Commons (Philadelphia Museum of Art). <https://artinformationcommons.github.io/blog/art-in-context-indentity-ethics-insight/>. Presentation: <https://doi.org/10.6084/m9.figshare.17068088>
+Baskauf, Steve, Imam Dagher, and Anchalee Panigabutra-Roberts. 2022-07-14. **Working with VanderBot to Add Multilingual Content (in English and Arabic) to Wikidata**. 2022 LD4 Conference on Linked Data. Online. <https://sched.co/13sdP>
 
-Baskauf, Steve, Charlotte Lew, and Anne Richardson. 2021-10-30. **Linking the Art in the Christian Tradition (ACT) database to Wikidata**. WikidataCon 2021. Online. Presentation: <https://commons.wikimedia.org/wiki/File:Linking_the_Art_in_the_Christian_Tradition_(ACT)_database_to_Wikidata.pdf>
+Lew, Charlotte and Steve Baskauf. 2022-06-16. **Linking the Art in the Christian Tradition Database to Wikidata**. ATLA 2022 Annual Conference. Online. <https://sched.co/10N82>
+
+Baskauf, Steven J. 2021-11-19. **Who’s the artist and who gets to decide? Identity management in Wikidata, where “anyone can edit”** in Art in Context: Identity, Ethics, and Insight. Art Information Commons (Philadelphia Museum of Art). <https://artinformationcommons.github.io/blog/art-in-context-indentity-ethics-insight/>. Presentation: <https://doi.org/10.6084/m9.figshare.17068088>
 
 Baskauf, Steve and Kali Mason. 2021-10-26. **Working with Wikidata**. Southeastern Museums Conference Annual Meeting. Chattanooga, Tennessee, USA. October 26, 2021. Presentation: <https://doi.org/10.6084/m9.figshare.16880539>
 
