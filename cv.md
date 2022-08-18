@@ -293,7 +293,7 @@ of America), Providence, RI. August 3, 2010. 
 <http://2010.botanyconference.org/engine/search/index.php?func=detail&aid=228>
 
 **Presentations**\
-Baskauf, S., I. Dagher, and A. Panigabutra-Roberts. 2022. Working with VanderBot to Add Multilingual Content (in English and Arabic) to Wikidata. 2022 LD4 Conference on Linked Data. Online. July 14, 2022. <https://sched.co/13sdP>
+Panigabutra-Roberts, A., S. Baskauf, and I. Dagher. 2022. Working with VanderBot to Add Multilingual Content (in English and Arabic) to Wikidata. 2022 LD4 Conference on Linked Data. Online. July 14, 2022. <https://sched.co/13sdP>
 
 Lew, C. and S. Baskauf. 2022. Linking the Art in the Christian Tradition Database to Wikidata. ATLA 2022 Annual Conference. Online. June 16, 2022. <https://sched.co/10N82>
 
