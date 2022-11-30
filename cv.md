@@ -293,6 +293,13 @@ of America), Providence, RI. August 3, 2010. 
 <http://2010.botanyconference.org/engine/search/index.php?func=detail&aid=228>
 
 **Presentations**\
+
+Baskauf, S.J., J. Girón Duque, M. Nielsen. Using the Audubon Core Controlled Vocabularies for subjectPart and subjectOrientation. Biodiversity Information Standards Annual Meeting. Sofia, Bulgaria. October 18, 2022. <https://doi.org/10.3897/biss.6.90955>
+
+Mayfield-Meyer, T., S.J. Baskauf, D. Endresen, C. Bölling, J. Wieczorek, R. Pyle, J. Buschbom. 2022. MaterialSample and its Properties. Biodiversity Information Standards Annual Meeting. Sofia, Bulgaria. October 18, 2022. <https://doi.org/10.3897/biss.6.91407>
+
+Sica, Y., K. Ingenloff, Yi-Ming GAN, Z. Kachian, S.J. Baskauf, J. Wieczorek, P. Zermoglio, R. Stevenson. 2022. Application of Humboldt Extension to Real-world Cases. Biodiversity Information Standards Annual Meeting. Sofia, Bulgaria. October 18, 2022. <https://doi.org/10.3897/biss.6.91502>
+
 Panigabutra-Roberts, A., S. Baskauf, and I. Dagher. 2022. Working with VanderBot to Add Multilingual Content (in English and Arabic) to Wikidata. 2022 LD4 Conference on Linked Data. Online. July 14, 2022.\
 Presentation: <https://trace.tennessee.edu/utk_libfac/12/>
 
