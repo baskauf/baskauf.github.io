@@ -91,6 +91,8 @@ Tabular Data on the Web Recommendation to manage small Wikidata
 datasets. Semantic Web Journal 14:5-27.
 <https://doi.org/10.3233/SW-210443>
 
+Lew, C and SJ Baskauf. 2022. Linking the Art in the Christian Tradition Database to Wikidata. 2022: Seventy-sixth Annual Conference of Atla. <https://doi.org/10.31046/proceedings.2022.3120>
+
 Baskauf, SJ, E Baker, D Stowell. 2020. Controlled Vocabulary for Audubon
 Core variant: List of Terms. Biodiversity Information Standards (TDWG).
 <http://rs.tdwg.org/ac/doc/variant/>
