@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/baskaufs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://baskauf.github.io
+  * I am baskaufs (https://keybase.io/baskaufs) on keybase.
+  * I have a public key ASBBpqWJdmSA-8gT1lKaOS7V2BDiqvXIHhmMy0X9uJnpeQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01015b9e7c2f25319f035921d20730ef3d00c4864d9087aaec7df567efccb0061b3c0a",
+      "host": "keybase.io",
+      "kid": "012041a6a589766480fbc813d6529a392ed5d810e2aaf5c81e198ccb45fdb899e9790a",
+      "uid": "aa2bdc3d8442dded662e139d1f38e519",
+      "username": "baskaufs"
+    },
+    "merkle_root": {
+      "ctime": 1671301023,
+      "hash": "0b0a75d32a58f0825cc5b4d68df4b1873f4a6c74195594d81b6c4b9a4777cba4ccca67f0c30670324af846830c4d075791d3effe1d6d5bd6c9451c480feed3f8",
+      "hash_meta": "e47be420a36d5d7ab5898fceed23a0842d58f87436103e0feb2ecba99f6dd6ed",
+      "seqno": 23730798
+    },
+    "service": {
+      "entropy": "oztqfnja9vZzGgZRqNwC8inF",
+      "hostname": "baskauf.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.3"
+  },
+  "ctime": 1671301086,
+  "expire_in": 504576000,
+  "prev": "e97708f80f8187c3ad405e3492ef3a250f1722ff2f68e55e10bb362943234823",
+  "seqno": 67,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQaaliXZkgPvIE9ZSmjku1dgQ4qr1yB4ZjMtF/biZ6XkKp3BheWxvYWTESpcCQ8Qg6XcI+A+Bh8OtQF40ku86JQ8XIv8vaOVeELs2KUMjSCPEIIk0DxEjreGh+hs2sC5p2zXq89UEhmjidpP3VODsb81sAgHCo3NpZ8RAcb6dUMk3n21ehDB8seUPaeGEro7Yz1+VCPn4MKO+Y70oDDAQoVD7uQLRGy+PktZ9VLdH9bNLBKMf75yL2OkwDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGNAjIkyTUwGhhvqJJltvQdzIQWuxspZXpataLIquz0mo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/baskaufs
+
+==================================================================
