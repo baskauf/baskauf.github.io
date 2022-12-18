@@ -11,7 +11,7 @@ hero_image: /img/nebraska.jpg
 - **Blog:** [http://baskauf.blogspot.com/](http://baskauf.blogspot.com/)
 - **Wikidata:** [User:Baskaufs](https://www.wikidata.org/wiki/User:Baskaufs)
 - **GitHub:** [baskaufs](https://github.com/baskaufs/)
-- **Twitter:** ~@baskaufs~ (left)
+- **Twitter:** I have left Twitter. Formerly: @baskaufs
 - **Mastadon:** [@baskauf@mastodon.world](https://mastodon.world/@baskauf)
 - **Instagram:** [@baskaufs](https://www.instagram.com/baskaufs/)
 - **YouTube:** [baskaufs](https://www.youtube.com/user/baskaufs/videos)
