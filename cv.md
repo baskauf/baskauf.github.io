@@ -86,13 +86,13 @@ Outstanding Senior in Chemistry Award, Bluffton College, 1982.
 
 **RESEARCH:**\
 **Refereed publications**\
+Baskauf, SJ, JC Girón Duque, M Nielsen, NS Cobb, R Singer, KC Seltmann, Z Kachian, M Pérez, D Agosti, AML Klompen. 2023. Implementation Experience Report for Controlled Vocabularies Used with the Audubon Core Terms subjectPart and subjectOrientation. Biodiversity Information Science and Standards 7:e94188.
+<http://doi.org/10.3897/biss.7.94188>
+
 Baskauf, SJ and JK Baskauf. 2023. Using the W3C Generating RDF from
 Tabular Data on the Web Recommendation to manage small Wikidata
 datasets. Semantic Web Journal 14:5-27.
 <https://doi.org/10.3233/SW-210443>
-
-Baskauf, SJ, JC Girón Duque, M Nielsen, NS Cobb, R Singer, KC Seltmann, Z Kachian, M Pérez, D Agosti, AML Klompen. 2022. Implementation Experience Report for Controlled Vocabularies Used with the Audubon Core Terms subjectPart and subjectOrientation. Biodiversity Information Science and Standards (in-press).
-[preprint](https://github.com/tdwg/ac/blob/master/views/implementation_experience_report_submitted_20582.pdf)
 
 Baskauf, SJ, E Baker, D Stowell. 2020. Controlled Vocabulary for Audubon
 Core variant: List of Terms. Biodiversity Information Standards (TDWG).
