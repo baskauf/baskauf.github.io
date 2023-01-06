@@ -9,7 +9,9 @@ hero_image: /img/wheeler.jpg
 
 # Selected publications
 
-Baskauf, Steven J. and Jessica K. Baskauf. 2021. **Using the W3C Generating RDF from Tabular Data on the Web Recommendation to manage small Wikidata datasets**. *Semantic Web Journal* (in press). <https://doi.org/10.3233/SW-210443>
+Baskauf, Steven J. and Jessica K. Baskauf. 2023. **Using the W3C Generating RDF from Tabular Data on the Web Recommendation to manage small Wikidata datasets**. *Semantic Web Journal* 14:5-27. <https://doi.org/10.3233/SW-210443>
+
+Baskauf, Steven J., Jennifer C. Girón Duque, Matthew Nielsen, Niel S. Cobb, Randy Singer, Katja C. Seltmann, Zachary Kachian, Mervin Pérez, Donat Agosti, Anna M. L. Klompen. 2023. **Implementation Experience Report for Controlled Vocabularies Used with the Audubon Core Terms subjectPart and subjectOrientation**. Biodiversity Information Science and Standards 7:e94188. <http://doi.org/10.3897/biss.7.94188>
 
 Groom, Quentin, Peter Desmet, Lien Reyserhove, Tim Adriaens, Damiano Oldoni, Sonia Vanderhoeven, Steven J. Baskauf, Arthur Chapman, Melodie McGeoch, Ramona Walls, John Wieczorek, John R. U. Wilson, Paula F. F. Zermoglio, Annie Simpson. 2019. **Improving Darwin Core for research and management of alien species**. *Biodiversity Information Science and Standards* 3:e38084. <http://dx.doi.org/10.3897/biss.3.38084>
 
@@ -19,15 +21,17 @@ Baskauf, Steven J. and Campbell O. Webb.  2016. Darwin-SW: **Darwin Core-based t
 
 # Recent presentations
 
+Baskauf, Steven J., Jennifer Girón Duque, Matthew Nielsen. **Using the Audubon Core Controlled Vocabularies for subjectPart and subjectOrientation**. Biodiversity Information Standards Annual Meeting. Sofia, Bulgaria. October 18, 2022. <https://doi.org/10.3897/biss.6.90955>
+
+Mayfield-Meyer, Teresa Jegelewicz, Steven J. Baskauf, Dag Endresen, Christian Bölling, John Wieczorek, Richard L. Pyle, and Jutta Buschbom. 2022. **MaterialSample and its Properties**. Biodiversity Information Standards Annual Meeting. Sofia, Bulgaria. October 18, 2022. <https://doi.org/10.3897/biss.6.91407>
+
+Sica, Yanina, Kate Ingenloff, Yi-Ming GAN, Zachary Kachian, Steven J. Baskauf, John Wieczorek, Paula F. Zermoglio, and Robert D. Stevenson. 2022. **Application of Humboldt Extension to Real-world Cases**. Biodiversity Information Standards Annual Meeting. Sofia, Bulgaria. October 18, 2022. <https://doi.org/10.3897/biss.6.91502>
+
 Baskauf, Steve, Imam Dagher, and Anchalee Panigabutra-Roberts. 2022-07-14. **Working with VanderBot to Add Multilingual Content (in English and Arabic) to Wikidata**. 2022 LD4 Conference on Linked Data. Online. <https://sched.co/13sdP>
 
 Lew, Charlotte and Steve Baskauf. 2022-06-16. **Linking the Art in the Christian Tradition Database to Wikidata**. ATLA 2022 Annual Conference. Online. <https://sched.co/10N82>
 
 Baskauf, Steven J. 2021-11-19. **Who’s the artist and who gets to decide? Identity management in Wikidata, where “anyone can edit”** in Art in Context: Identity, Ethics, and Insight. Art Information Commons (Philadelphia Museum of Art). <https://artinformationcommons.github.io/blog/art-in-context-indentity-ethics-insight/>. Presentation: <https://doi.org/10.6084/m9.figshare.17068088>
-
-Baskauf, Steve and Kali Mason. 2021-10-26. **Working with Wikidata**. Southeastern Museums Conference Annual Meeting. Chattanooga, Tennessee, USA. October 26, 2021. Presentation: <https://doi.org/10.6084/m9.figshare.16880539>
-
-Baskauf, Steven J. 2021-10-18. **Having your cake and eating it too: JSON-LD as an RDF serialization format** in Connecting biodiversity data with knowledge graphs (symposium). Biodiversity Information Standards Annual Meeting. Online. <https://doi.org/10.3897/biss.5.74266>. Presentation: <https://doi.org/10.6084/m9.figshare.16823473>
 
 # Co-author graph
 
