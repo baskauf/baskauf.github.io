@@ -300,6 +300,8 @@ of America), Providence, RI. August 3, 2010. 
 <http://2010.botanyconference.org/engine/search/index.php?func=detail&aid=228>
 
 **Presentations**\
+Baskauf, S. Using VanderBot with wikibases. LD4 Wikibase Working Hour. Online. February 13, 2023. 
+Presentation video: <https://drive.google.com/file/d/1VH47ej63-sEYNCD8DL25SeerW8Y9f7di/view>
 
 Baskauf, S.J., J. Girón Duque, M. Nielsen. Using the Audubon Core Controlled Vocabularies for subjectPart and subjectOrientation. Biodiversity Information Standards Annual Meeting. Sofia, Bulgaria. October 18, 2022. <https://doi.org/10.3897/biss.6.90955>
 
