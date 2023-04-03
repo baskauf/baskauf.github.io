@@ -20,6 +20,9 @@ Baskauf, Steven J., John Wieczorek, John Deck, and Campbell O. Webb. 2016. **Les
 Baskauf, Steven J. and Campbell O. Webb.  2016. Darwin-SW: **Darwin Core-based terms for expressing biodiversity data as RDF**. *Semantic Web Journal* 7:629-243. <http://dx.doi.org/10.3233/SW-150203> (open access at <http://bit.ly/2dG85b5>)
 
 # Recent presentations
+Baskauf, Steve. **Recent Developments in Biodiversity Informatics Standards: Describing the World Beyond Museum Collections.** Austin Peay University (invited speaker). February 27, 2023. <https://doi.org/10.6084/m9.figshare.22495906>
+
+Baskauf, S. **Using VanderBot with wikibases.** LD4 Wikibase Working Hour. Online. February 13, 2023. Presentation video: <https://drive.google.com/file/d/1VH47ej63-sEYNCD8DL25SeerW8Y9f7di/view>
 
 Baskauf, Steven J., Jennifer Girón Duque, Matthew Nielsen. **Using the Audubon Core Controlled Vocabularies for subjectPart and subjectOrientation**. Biodiversity Information Standards Annual Meeting. Sofia, Bulgaria. October 18, 2022. <https://doi.org/10.3897/biss.6.90955>
 
@@ -30,8 +33,6 @@ Sica, Yanina, Kate Ingenloff, Yi-Ming GAN, Zachary Kachian, Steven J. Baskauf, J
 Baskauf, Steve, Imam Dagher, and Anchalee Panigabutra-Roberts. 2022-07-14. **Working with VanderBot to Add Multilingual Content (in English and Arabic) to Wikidata**. 2022 LD4 Conference on Linked Data. Online. <https://sched.co/13sdP>
 
 Lew, Charlotte and Steve Baskauf. 2022-06-16. **Linking the Art in the Christian Tradition Database to Wikidata**. ATLA 2022 Annual Conference. Online. <https://sched.co/10N82>
-
-Baskauf, Steven J. 2021-11-19. **Who’s the artist and who gets to decide? Identity management in Wikidata, where “anyone can edit”** in Art in Context: Identity, Ethics, and Insight. Art Information Commons (Philadelphia Museum of Art). <https://artinformationcommons.github.io/blog/art-in-context-indentity-ethics-insight/>. Presentation: <https://doi.org/10.6084/m9.figshare.17068088>
 
 # Co-author graph
 
