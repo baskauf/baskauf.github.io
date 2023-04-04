@@ -1,5 +1,17 @@
 - title: Instagram @baskaufs (some posts @vutrees)
   images:
+    - link: /gallery/2022-03-08_22.02.01-2.jpg
+      alt: Slug, El Yunque forest, Puerto Rico, 2022
+      description: Slug, El Yunque forest, Puerto Rico, 2022
+      ratio: is-square
+    - link: /gallery/2022-03-06_13.02.22.jpg
+      alt: Pavement, San Juan, Puerto Rico, 2022
+      description: Pavement, San Juan, Puerto Rico, 2022
+      ratio: is-square
+    - link: /gallery/2022-10-19_08.30.37-1.jpg
+      alt: Rila Monastery, Bulgaria, 2022
+      description: Rila Monastery, Bulgaria, 2022
+      ratio: is-square
     - link: /gallery/2015-06-14.jpg
       alt: Children, Chefchaouen, Morocco, 2015
       description: Children, Chefchaouen, Morocco, 2015
