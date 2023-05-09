@@ -86,6 +86,14 @@ Outstanding Senior in Chemistry Award, Bluffton College, 1982.
 
 **RESEARCH:**\
 **Refereed publications**\
+Baskauf, SJ, NS Cobb, JC Girón Duque, M Nielsen, M Pérez, R Singer. 2023. Controlled Vocabulary for Audubon
+Core subjectOrientation: List of Terms. Biodiversity Information Standards (TDWG).
+<http://rs.tdwg.org/ac/doc/orient/>
+
+Baskauf, SJ, NS Cobb, JC Girón Duque, M Nielsen, M Pérez, R Singer, AML Klompen. 2023. Controlled Vocabulary for Audubon
+Core subjectPart: List of Terms. Biodiversity Information Standards (TDWG).
+<http://rs.tdwg.org/ac/doc/part/>
+
 Baskauf, SJ, JC Girón Duque, M Nielsen, NS Cobb, R Singer, KC Seltmann, Z Kachian, M Pérez, D Agosti, AML Klompen. 2023. Implementation Experience Report for Controlled Vocabularies Used with the Audubon Core Terms subjectPart and subjectOrientation. Biodiversity Information Science and Standards 7:e94188.
 <http://doi.org/10.3897/biss.7.94188>
 
