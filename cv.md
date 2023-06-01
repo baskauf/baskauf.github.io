@@ -308,7 +308,9 @@ of America), Providence, RI. August 3, 2010. 
 <http://2010.botanyconference.org/engine/search/index.php?func=detail&aid=228>
 
 **Presentations**\
-Baskauf, Steve. Recent Developments in Biodiversity Informatics Standards: Describing the World Beyond Museum Collections. Austin Peay University (invited speaker). February 27, 2023. <https://doi.org/10.6084/m9.figshare.22495906>
+Baskauf, S. TDWG Audiovisual Core Standard: Vocabularies for describing multimedia. Biological Data Standards Cluster - Earth Science Information Partners (ESIP) meeting. Online. June 1, 2023.<https://figshare.com/articles/presentation/TDWG_Audiovisual_Core_Standard_Vocabularies_for_describing_multimedia/23277536>
+
+Baskauf, S. Recent Developments in Biodiversity Informatics Standards: Describing the World Beyond Museum Collections. Austin Peay University (invited speaker). February 27, 2023. <https://doi.org/10.6084/m9.figshare.22495906>
 
 Baskauf, S. Using VanderBot with wikibases. LD4 Wikibase Working Hour. Online. February 13, 2023. 
 Presentation video: <https://drive.google.com/file/d/1VH47ej63-sEYNCD8DL25SeerW8Y9f7di/view>

@@ -20,6 +20,8 @@ Baskauf, Steven J., John Wieczorek, John Deck, and Campbell O. Webb. 2016. **Les
 Baskauf, Steven J. and Campbell O. Webb.  2016. Darwin-SW: **Darwin Core-based terms for expressing biodiversity data as RDF**. *Semantic Web Journal* 7:629-243. <http://dx.doi.org/10.3233/SW-150203> (open access at <http://bit.ly/2dG85b5>)
 
 # Recent presentations
+Baskauf, Steve. **TDWG Audiovisual Core Standard: Vocabularies for describing multimedia.** Biological Data Standards Cluster - Earth Science Information Partners (ESIP) meeting. Online. June 1, 2023.<https://figshare.com/articles/presentation/TDWG_Audiovisual_Core_Standard_Vocabularies_for_describing_multimedia/23277536>
+
 Baskauf, Steve. **Recent Developments in Biodiversity Informatics Standards: Describing the World Beyond Museum Collections.** Austin Peay University (invited speaker). February 27, 2023. <https://doi.org/10.6084/m9.figshare.22495906>
 
 Baskauf, S. **Using VanderBot with wikibases.** LD4 Wikibase Working Hour. Online. February 13, 2023. Presentation video: <https://drive.google.com/file/d/1VH47ej63-sEYNCD8DL25SeerW8Y9f7di/view>
