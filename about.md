@@ -35,3 +35,12 @@ I am an active participant in the Biodiversity Information Standards (TDWG) orga
 I am also actively involved in the Wikimedia community. I am an frequent contributor to [Wikidata](https://www.wikidata.org/) and participant in the [LD4 Wikidata Affinity Group](https://www.wikidata.org/wiki/Wikidata:WikiProject_LD4_Wikidata_Affinity_Group). I've developed software to assist users with bulk data uploads, developed instructional materials, and have given several workshops and presentations on this work. To learn more about my work with Wikidata, see the projects tab.
 
 <img src="/img/vanderbot.png" alt="VanderBot cartoon" width="200"><br/>
+
+# Personal interests
+
+I enjoy traveling, outdoor activities, and reading. I'm into genealogy and have written two books of family history. Here's some stats:
+
+- I've traveled to all 50 states plus D.C. and Puerto Rico. I've visited 32 countries on 4 continents.
+- I want to visit as many U.S. national parks as possible. So far I've been to 47 (75% of them).
+- I'm hoping to eventually observe 1000 species of birds. Currently, [I'm up to 846](https://ebird.org/profile/NzU0NDQ1/world).
+- I've recently finished reading all 72 of the winners of the Hugo Award for Best Novel (science fiction or fantasy)
