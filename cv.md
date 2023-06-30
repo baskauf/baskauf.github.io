@@ -238,8 +238,11 @@ Missouri Botanical Garden Press, St. Louis, MO.
 
 
 **Proceedings**\
-Lew, C and SJ Baskauf. 2022. Linking the Art in the Christian Tradition Database to Wikidata. 2022: Seventy-sixth Annual Conference of Atla. <https://doi.org/10.31046/proceedings.2022.3120>
+Lew, C. and S. J. Baskauf. 2022. Linking the Art in the Christian Tradition Database to Wikidata. 2022: Seventy-sixth Annual Conference of Atla. <https://doi.org/10.31046/proceedings.2022.3120>
 
+**Preprints**\
+J. W. Bubnicki, B. Norton, S. J. Baskauf, T. Bruce, F. Cagnacci, J. Casaer, M. Churski, J. P. G. M. Cromsigt, S. D. Farra, C. Fiderer, T. D. Forrester, H. Hendry, M. Heurich, T. R. Hofmeester, P. A. Jansen, R. Kays, D. P. J. Kuijper, Y. Liefting, J. D. C. Linnell, M. S. Luskin, C. Mann, T. Milotic, P. Newman, J. Niedballa, D. Oldoni, F. Ossi, T. Robertson, F. Rovero, M. Rowcliffe, L. Seidenari, I. Stachowicz, D. Stowell, M. W. Tobler, J. Wieczorek, F. Zimmermann, P. Desmet. 2023. Camtrap DP: An open standard for the FAIR exchange
+and archiving of camera trap data. EcoEvoRxiv. https://doi.org/10.32942/X2BC8J
 
 **Grants received**\
 WikiCite for Librarians: Interactive Learning Pathways for Information
