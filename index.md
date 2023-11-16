@@ -8,6 +8,7 @@ hero_image: /img/wheeler.jpg
 ---
 
 # Selected publications
+Jakub W. Bubnicki, Ben Norton, Steven J. Baskauf, Tom Bruce, Francesca Cagnacci, Jim Casaer, Marcin Churski, Joris P.G.M. Cromsigt, Simone Dal Farra, Christian Fiderer, Tavis D. Forrester, Heidi Hendry, Marco Heurich, Tim R. Hofmeester, Patrick A. Jansen, Roland Kays, Dries P.J. Kuijper, Yorick Liefting, John D.C. Linnell, Matthew S Luskin, Christopher Mann, Tanja Milotic, Peggy Newman, Jürgen Niedballa, Damiano Oldoni, Federico Ossi, Tim Robertson, Francesco Rovero, Marcus Rowcliffe, Lorenzo Seidenari, Izabela Stachowicz, Dan Stowell, Mathias W. Tobler, John Wieczorek, Fridolin Zimmermann, Peter Desmet. 2023. **Camtrap DP: An open standard for the FAIR exchange and archiving of camera trap data.** *Remote Sensing in Ecology and Conservation.* In press. Preprint at EcoEvoRxiv: <https://doi.org/10.32942/X2BC8J>
 
 Baskauf, Steven J. and Jessica K. Baskauf. 2023. **Using the W3C Generating RDF from Tabular Data on the Web Recommendation to manage small Wikidata datasets**. *Semantic Web Journal* 14:5-27. <https://doi.org/10.3233/SW-210443>
 
@@ -20,21 +21,15 @@ Baskauf, Steven J., John Wieczorek, John Deck, and Campbell O. Webb. 2016. **Les
 Baskauf, Steven J. and Campbell O. Webb.  2016. Darwin-SW: **Darwin Core-based terms for expressing biodiversity data as RDF**. *Semantic Web Journal* 7:629-243. <http://dx.doi.org/10.3233/SW-150203> (open access at <http://bit.ly/2dG85b5>)
 
 # Recent presentations
+Baskauf, Steve **CommonsTool.** LD4 Art and Design Affinity Group. Online. November 15, 2023. <https://doi.org/10.6084/m9.figshare.24570859>
+
+Sica, Yanina V., Wesley M. Hochachka, Yi-Ming Gan, Kate Ingenloff, Dmitry Schigel, Robert D. Stevenson, Steven J. Baskauf, Peter Brenton, Anahita J. N. Kazem, John Wieczorek. 2023. **Want to Describe and Share Biodiversity Inventory and Monitoring Data? The Humboldt Extension for Ecological Inventories Can Help!** Biodiversity Information Standards Annual Meeting. Hobart, Australia. October 10, 2023. <https://doi.org/10.3897/biss.7.112229>
+
 Baskauf, Steve. **TDWG Audiovisual Core Standard: Vocabularies for describing multimedia.** Biological Data Standards Cluster - Earth Science Information Partners (ESIP) meeting. Online. June 1, 2023. <https://doi.org/10.6084/m9.figshare.23277536>
 
 Baskauf, Steve. **Recent Developments in Biodiversity Informatics Standards: Describing the World Beyond Museum Collections.** Austin Peay University (invited speaker). February 27, 2023. <https://doi.org/10.6084/m9.figshare.22495906>
 
 Baskauf, S. **Using VanderBot with wikibases.** LD4 Wikibase Working Hour. Online. February 13, 2023. Presentation video: <https://drive.google.com/file/d/1VH47ej63-sEYNCD8DL25SeerW8Y9f7di/view>
-
-Baskauf, Steven J., Jennifer Girón Duque, Matthew Nielsen. **Using the Audubon Core Controlled Vocabularies for subjectPart and subjectOrientation**. Biodiversity Information Standards Annual Meeting. Sofia, Bulgaria. October 18, 2022. <https://doi.org/10.3897/biss.6.90955>
-
-Mayfield-Meyer, Teresa Jegelewicz, Steven J. Baskauf, Dag Endresen, Christian Bölling, John Wieczorek, Richard L. Pyle, and Jutta Buschbom. 2022. **MaterialSample and its Properties**. Biodiversity Information Standards Annual Meeting. Sofia, Bulgaria. October 18, 2022. <https://doi.org/10.3897/biss.6.91407>
-
-Sica, Yanina, Kate Ingenloff, Yi-Ming GAN, Zachary Kachian, Steven J. Baskauf, John Wieczorek, Paula F. Zermoglio, and Robert D. Stevenson. 2022. **Application of Humboldt Extension to Real-world Cases**. Biodiversity Information Standards Annual Meeting. Sofia, Bulgaria. October 18, 2022. <https://doi.org/10.3897/biss.6.91502>
-
-Baskauf, Steve, Imam Dagher, and Anchalee Panigabutra-Roberts. 2022-07-14. **Working with VanderBot to Add Multilingual Content (in English and Arabic) to Wikidata**. 2022 LD4 Conference on Linked Data. Online. <https://sched.co/13sdP>
-
-Lew, Charlotte and Steve Baskauf. 2022-06-16. **Linking the Art in the Christian Tradition Database to Wikidata**. ATLA 2022 Annual Conference. Online. <https://sched.co/10N82>
 
 # Co-author graph
 

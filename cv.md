@@ -86,7 +86,7 @@ Outstanding Senior in Chemistry Award, Bluffton College, 1982.
 
 **RESEARCH:**\
 **Refereed publications**\
-J. W. Bubnicki, B. Norton, S. J. Baskauf, T. Bruce, F. Cagnacci, J. Casaer, M. Churski, J. P. G. M. Cromsigt, S. D. Farra, C. Fiderer, T. D. Forrester, H. Hendry, M. Heurich, T. R. Hofmeester, P. A. Jansen, R. Kays, D. P. J. Kuijper, Y. Liefting, J. D. C. Linnell, M. S. Luskin, C. Mann, T. Milotic, P. Newman, J. Niedballa, D. Oldoni, F. Ossi, T. Robertson, F. Rovero, M. Rowcliffe, L. Seidenari, I. Stachowicz, D. Stowell, M. W. Tobler, J. Wieczorek, F. Zimmermann, P. Desmet. 2023. Camtrap DP: An open standard for the FAIR exchange and archiving of camera trap data. Remote Sensing in Ecology and Conservation. In press. Preprint at EcoEvoRxiv: https://doi.org/10.32942/X2BC8J
+J. W. Bubnicki, B. Norton, S. J. Baskauf, T. Bruce, F. Cagnacci, J. Casaer, M. Churski, J. P. G. M. Cromsigt, S. D. Farra, C. Fiderer, T. D. Forrester, H. Hendry, M. Heurich, T. R. Hofmeester, P. A. Jansen, R. Kays, D. P. J. Kuijper, Y. Liefting, J. D. C. Linnell, M. S. Luskin, C. Mann, T. Milotic, P. Newman, J. Niedballa, D. Oldoni, F. Ossi, T. Robertson, F. Rovero, M. Rowcliffe, L. Seidenari, I. Stachowicz, D. Stowell, M. W. Tobler, J. Wieczorek, F. Zimmermann, P. Desmet. 2023. Camtrap DP: An open standard for the FAIR exchange and archiving of camera trap data. Remote Sensing in Ecology and Conservation. In press. Preprint at EcoEvoRxiv: <https://doi.org/10.32942/X2BC8J>
 
 Baskauf, SJ, NS Cobb, JC Girón Duque, M Nielsen, M Pérez, R Singer. 2023. Controlled Vocabulary for Audubon
 Core subjectOrientation: List of Terms. Biodiversity Information Standards (TDWG).
@@ -310,6 +310,10 @@ of America), Providence, RI. August 3, 2010. 
 <http://2010.botanyconference.org/engine/search/index.php?func=detail&aid=228>
 
 **Presentations**\
+Baskauf, S. CommonsTool. LD4 Art and Design Affinity Group. Online. November 15, 2023. <https://doi.org/10.6084/m9.figshare.24570859>
+
+Sica, Y.V., W.M. Hochachka, Y.-M. Gan, K. Ingenloff, D. Schigel, R.D. Stevenson, S.J. Baskauf, P. Brenton, A.J.N. Kazem, J. Wieczorek. 2023. Want to Describe and Share Biodiversity Inventory and Monitoring Data? The Humboldt Extension for Ecological Inventories Can Help! Biodiversity Information Standards Annual Meeting. Hobart, Australia. October 10, 2023. <https://doi.org/10.3897/biss.7.112229>
+
 Baskauf, S. TDWG Audiovisual Core Standard: Vocabularies for describing multimedia. Biological Data Standards Cluster - Earth Science Information Partners (ESIP) meeting. Online. June 1, 2023. <https://doi.org/10.6084/m9.figshare.23277536>
 
 Baskauf, S. Recent Developments in Biodiversity Informatics Standards: Describing the World Beyond Museum Collections. Austin Peay University (invited speaker). February 27, 2023. <https://doi.org/10.6084/m9.figshare.22495906>
