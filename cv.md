@@ -86,7 +86,7 @@ Outstanding Senior in Chemistry Award, Bluffton College, 1982.
 
 **RESEARCH:**\
 **Refereed publications**\
-J. W. Bubnicki, B. Norton, S. J. Baskauf, T. Bruce, F. Cagnacci, J. Casaer, M. Churski, J. P. G. M. Cromsigt, S. D. Farra, C. Fiderer, T. D. Forrester, H. Hendry, M. Heurich, T. R. Hofmeester, P. A. Jansen, R. Kays, D. P. J. Kuijper, Y. Liefting, J. D. C. Linnell, M. S. Luskin, C. Mann, T. Milotic, P. Newman, J. Niedballa, D. Oldoni, F. Ossi, T. Robertson, F. Rovero, M. Rowcliffe, L. Seidenari, I. Stachowicz, D. Stowell, M. W. Tobler, J. Wieczorek, F. Zimmermann, P. Desmet. 2023. Camtrap DP: An open standard for the FAIR exchange and archiving of camera trap data. Remote Sensing in Ecology and Conservation. In press. Preprint at EcoEvoRxiv: <https://doi.org/10.32942/X2BC8J>
+J. W. Bubnicki, B. Norton, S. J. Baskauf, T. Bruce, F. Cagnacci, J. Casaer, M. Churski, J. P. G. M. Cromsigt, S. D. Farra, C. Fiderer, T. D. Forrester, H. Hendry, M. Heurich, T. R. Hofmeester, P. A. Jansen, R. Kays, D. P. J. Kuijper, Y. Liefting, J. D. C. Linnell, M. S. Luskin, C. Mann, T. Milotic, P. Newman, J. Niedballa, D. Oldoni, F. Ossi, T. Robertson, F. Rovero, M. Rowcliffe, L. Seidenari, I. Stachowicz, D. Stowell, M. W. Tobler, J. Wieczorek, F. Zimmermann, P. Desmet. 2023. Camtrap DP: An open standard for the FAIR exchange and archiving of camera trap data. Remote Sensing in Ecology and Conservation. In press. <https://doi.org/10.1002/rse2.374> Preprint at EcoEvoRxiv: <https://doi.org/10.32942/X2BC8J>
 
 Baskauf, SJ, NS Cobb, JC Girón Duque, M Nielsen, M Pérez, R Singer. 2023. Controlled Vocabulary for Audubon
 Core subjectOrientation: List of Terms. Biodiversity Information Standards (TDWG).
