@@ -2,7 +2,7 @@
 layout: post
 title: Camtrap DP paper published
 description: Camtrap DP is an open standard for the exchange of camera trap data. The paper describing version 1.0 of the standard has been published in Remote Sensing in Ecology and Conservation.
-date: 2023-11-21 12:00:00
+date: 2023-12-10 08:00:00
 hero_image: /img/grec13_1771.JPG
 image: /img/camtrap_diagram.png
 hero_height: is-large
