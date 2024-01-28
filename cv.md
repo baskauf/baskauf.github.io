@@ -310,6 +310,8 @@ of America), Providence, RI. August 3, 2010. 
 <http://2010.botanyconference.org/engine/search/index.php?func=detail&aid=228>
 
 **Presentations**\
+Vivek, L., E. Clark, S.J. Baskauf, S. Xu, L. Gao, K. Nguyen, M. Goldin, K. Prasad, A. Miller, M.C. Topf, and A. Gelbard. 2024. Network Analysis of American Otolaryngologists. Triological Society Combined Sections Meeting, West Palm Beach, FL. January 26, 2024.
+
 Baskauf, S. CommonsTool. LD4 Art and Design Affinity Group. Online. November 15, 2023. Presentation slides: <https://doi.org/10.6084/m9.figshare.24570859>. [Video link](https://drive.google.com/file/d/1n_Sf9w-IN54ooFSfmoDTnQdTkndVYzCu/view?usp=drive_link)
 
 Sica, Y.V., W.M. Hochachka, Y.-M. Gan, K. Ingenloff, D. Schigel, R.D. Stevenson, S.J. Baskauf, P. Brenton, A.J.N. Kazem, J. Wieczorek. 2023. Want to Describe and Share Biodiversity Inventory and Monitoring Data? The Humboldt Extension for Ecological Inventories Can Help! Biodiversity Information Standards Annual Meeting. Hobart, Australia. October 10, 2023. <https://doi.org/10.3897/biss.7.112229>
