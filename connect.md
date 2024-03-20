@@ -8,7 +8,7 @@ hero_image: /img/nebraska.jpg
 
 - **Email:** [steve.baskauf@vanderbilt.edu](mailto:steve.baskauf@vanderbilt.edu)
 - **ORCID:** [0000-0003-4365-3135](https://orcid.org/0000-0003-4365-3135)
-- **Blog:** [http://baskauf.blogspot.com/](http://baskauf.blogspot.com/)
+- **Blog:** [https://baskauf.blogspot.com/](https://baskauf.blogspot.com/)
 - **Wikidata:** [User:Baskaufs](https://www.wikidata.org/wiki/User:Baskaufs)
 - **GitHub:** [baskaufs](https://github.com/baskaufs/)
 - **Twitter:** I have left Twitter. Formerly: @baskaufs
