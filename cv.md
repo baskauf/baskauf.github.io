@@ -26,7 +26,7 @@ Bluffton College, Bluffton, Ohio.
 **EMPLOYMENT HISTORY:**\
 *Data Science and Data Curation Specialist* . Jean & Alexander Heard
 Libraries, Vanderbilt University, Nashville, TN. I work in the Digital
-Scholarship and Scholarly Communications Office (Librarian II 2018-21, Librarian III 2021-present)
+Lab (Librarian II 2018-21, Librarian III 2021-present)
 
 *Principal Senior Lecturer*, Vanderbilt
 University, Nashville, TN (course: Introduction to Biological Sciences
@@ -86,6 +86,15 @@ Outstanding Senior in Chemistry Award, Bluffton College, 1982.
 
 **RESEARCH:**\
 **Refereed publications**\
+
+Sica, Y. V., K. Ingenloff, P. Zermoglio, Y.-M. Gan, P. Brenton, J. Wieczorek, W. M. Hochachka, Z. R. Kachian, R. D. Stevenson, A. J. N. Kazem, D. Schigel, S. J. Baskauf, T. Suwa, R. Guralnick, R. L. Walls, and W. Jetz. 2024. Humboldt Extension Vocabulary List of Terms. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/eco/>
+
+Sica, Y. V., W. M. Hochachka, and S. J. Baskauf. 2024. Taxon Completeness Reported Controlled Vocabulary List of Terms. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/tcr/>
+
+Gan, Y.-M., W. M. Hochachka, J. Wieczorek, Y. V. Sica, P. Brenton, and S. J. Baskauf. 2024. isLeastSpecificTargetCategoryQuantityInclusive Guidelines. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/inclusive/>
+
+Gan, Y.-M., W. M. Hochachka, J. Wieczorek, Y. V. Sica, P. Brenton, R. D. Stevenson, A. J. N. Kazem, S. J. Baskauf, Z. R. Kachian, and K. Ingenloff. 2024. Properties of hierarchical events in the Humboldt Extension for Ecological Inventories. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/hierarchy/>
+
 J. W. Bubnicki, B. Norton, S. J. Baskauf, T. Bruce, F. Cagnacci, J. Casaer, M. Churski, J. P. G. M. Cromsigt, S. D. Farra, C. Fiderer, T. D. Forrester, H. Hendry, M. Heurich, T. R. Hofmeester, P. A. Jansen, R. Kays, D. P. J. Kuijper, Y. Liefting, J. D. C. Linnell, M. S. Luskin, C. Mann, T. Milotic, P. Newman, J. Niedballa, D. Oldoni, F. Ossi, T. Robertson, F. Rovero, M. Rowcliffe, L. Seidenari, I. Stachowicz, D. Stowell, M. W. Tobler, J. Wieczorek, F. Zimmermann, P. Desmet. 2023. Camtrap DP: An open standard for the FAIR exchange and archiving of camera trap data. Remote Sensing in Ecology and Conservation. 2023. <https://doi.org/10.1002/rse2.374>
 
 Baskauf, SJ, NS Cobb, JC Girón Duque, M Nielsen, M Pérez, R Singer. 2023. Controlled Vocabulary for Audubon
@@ -185,7 +194,8 @@ Informatics
 
 Baskauf, SJ and BK Kirchoff (2008) Digital plant images as specimens:
 toward standards for photographing living plants.  *[Vulpina
-7:16-30](http://www.cals.ncsu.edu/plantbiology/ncsc/vulpia/pdf/Baskauf_&_Kirchoff_Digital_Plant_Images.pdf)*.
+7:16-30](https://herbarium.ncsu.edu/vulpia/pdf/Baskauf_&_Kirchoff_Digital_Plant_Images.pdf)*.
+
 
 Baskauf, SJ (2003). Factors influencing population dynamics of the
 southwestern corn borer (Lepidoptera: Crambidae): a reassessment. 
