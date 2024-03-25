@@ -6,7 +6,7 @@ show_sidebar: false
 hero_image: /img/nebraska.jpg
 ---
 
-- **Email:** [steve.baskauf@vanderbilt.edu](mailto:steve.baskauf@vanderbilt.edu)
+- **Email:** [steve.baskauf@gmail.com](mailto:steve.baskauf@gmail.com)
 - **ORCID:** [0000-0003-4365-3135](https://orcid.org/0000-0003-4365-3135)
 - **Blog:** [https://baskauf.blogspot.com/](https://baskauf.blogspot.com/)
 - **Wikidata:** [User:Baskaufs](https://www.wikidata.org/wiki/User:Baskaufs)
