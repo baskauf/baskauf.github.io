@@ -10,7 +10,7 @@ Data Science and Data Curation Specialist (retired)\
 Jean & Alexander Heard Libraries\
 Vanderbilt University\
 Nashville, TN 37235\
-Email: [steve.baskauf\@gmail.com](mailto:steve.baskauf@gmail.com)
+Email: [steve.baskauf@gmail.com](mailto:steve.baskauf@gmail.com)
 
 **EDUCATION:**\
 Ph.D. in biology, December 1999 under the direction of David E.
