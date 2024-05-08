@@ -15,11 +15,11 @@ I have a BA degree in chemistry and biology and a Ph.D. in biology with a focus 
 
 <img src="/img/1985-newton-third.jpg" alt="St. Joseph's High School, Mzimpofu, Swaziland" width="300"><br/>
 
-# Current job responsibilities
+# Former job responsibilities
 
-I am a Data Science and Data Curation Specialist in the [Digital Lab](https://www.library.vanderbilt.edu/digital-lab/) of the [Jean & Alexander Heard Libraries](https://www.library.vanderbilt.edu/) of [Vanderbilt University](https://www.vanderbilt.edu/). 
+In 2024 I retired from my position as a Data Science and Data Curation Specialist in the [Digital Lab](https://www.library.vanderbilt.edu/digital-lab/) of the [Jean & Alexander Heard Libraries](https://www.library.vanderbilt.edu/) of [Vanderbilt University](https://www.vanderbilt.edu/). 
 
-My work in the Digital Lab involves helping faculty, staff, and students build data skills through workshops, lesson series, individual consulatations, and guest programs in classes. I also work with librarians across the library system to improve the Libraries' data infrastructure and to help them build their skills. 
+My work in the Digital Lab involved helping faculty, staff, and students build data skills through workshops, lesson series, individual consulatations, and guest programs in classes. I also worked with librarians across the library system to improve the Libraries' data infrastructure and to help them build their skills. 
 
 You can learn more about some of these efforts through the projects tab.
 

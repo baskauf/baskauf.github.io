@@ -5,9 +5,7 @@ layout: page
 show_sidebar: false
 ---
 
-In my role as a Data Science and Data Curation Specialist at the Vanderbilt Libraries, I develop and present workshops and lessons to help beginner and intermediale-level learners develop skills for coding and using technical tools. These lessons are focused in three main areas: coding with Python and R, and using GitHub.
-
-To view current lesson offerings, see the Digital Scholarship and Communications (DiSC) [Education and Training page](https://www.library.vanderbilt.edu/disc/workshops).
+In my role as a Data Science and Data Curation Specialist at the Vanderbilt Libraries, I developed and presented workshops and lessons to help beginner and intermediale-level learners develop skills for coding and using technical tools. Those lessons were focused in three main areas: coding with Python and R, and using GitHub.
 
 ------
 

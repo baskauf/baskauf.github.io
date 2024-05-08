@@ -6,11 +6,11 @@ show_sidebar: false
 hero_image: /img/2018-03-06.jpg
 ---
 
-Data Science and Data Curation Specialist\
+Data Science and Data Curation Specialist (retired)\
 Jean & Alexander Heard Libraries\
 Vanderbilt University\
 Nashville, TN 37235\
-Email: [steve.baskauf\@vanderbilt.edu](mailto:steve.baskauf@vanderbilt.edu)
+Email: [steve.baskauf\@gmail.com](mailto:steve.baskauf@gmail.com)
 
 **EDUCATION:**\
 Ph.D. in biology, December 1999 under the direction of David E.
@@ -24,9 +24,11 @@ BA in chemistry and biology, 1982.\
 Bluffton College, Bluffton, Ohio.
 
 **EMPLOYMENT HISTORY:**\
+*Retired as of May 2024*
+
 *Data Science and Data Curation Specialist* . Jean & Alexander Heard
-Libraries, Vanderbilt University, Nashville, TN. I work in the Digital
-Lab (Librarian II 2018-21, Librarian III 2021-present)
+Libraries, Vanderbilt University, Nashville, TN. I worked in the Digital
+Lab (Librarian II 2018-21, Librarian III 2021-2024)
 
 *Principal Senior Lecturer*, Vanderbilt
 University, Nashville, TN (course: Introduction to Biological Sciences
@@ -77,6 +79,7 @@ School, Ridgeway, Ohio.  Taught chemistry, physics and general science. 
 (1982-83)
 
 **HONORS AND AWARDS:**\
+Jean and Alexander Heard Award for Distinguished Librarianship - For outstanding commitment to librarianship, service, and scholarship (2024)
 Harriet S. Gilliam Award for Excellence in Teaching by a Senior
 Lecturer, Vanderbilt University (2010)\
 Graduate Student of the Year, Dept. of Biology, Vanderbilt Univ. (1999)\
