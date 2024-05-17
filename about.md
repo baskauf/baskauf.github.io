@@ -28,7 +28,7 @@ You can learn more about some of these efforts through the projects tab.
 
 # Professional contributions
 
-I am an active participant in the Biodiversity Information Standards (TDWG) organization.  I was formerly a member of the Executive Committee, the chair of the Technical Architecture Group, and convener of the Views Controlled Vocabularies Task Group. I also serve on the Darwin Core Maintenance Group, Audubon Core Maintenance Group, Taxon Names and Concepts Maintenance Group, and the Humboldt Core Task Group.  You can learn more about my standards work under the projects tab.
+I am an active participant in the Biodiversity Information Standards (TDWG) organization.  I was formerly a member of the Executive Committee, the chair of the Technical Architecture Group, and convener of the Views Controlled Vocabularies Task Group. I also serve on the Darwin Core Maintenance Group, Audubon Core Maintenance Group, and the Taxon Names and Concepts Maintenance Group.  You can learn more about my standards work under the projects tab.
 
 <img src="/img/subtype_turtle.png" alt="Audubon Core Subtype RDF" width="400"><br/>
 
@@ -42,5 +42,8 @@ I enjoy traveling, outdoor activities, and reading. I'm into genealogy and have 
 
 - I've traveled to all 50 states plus D.C. and Puerto Rico. I've visited 33 countries on 5 continents.
 - I want to visit as many U.S. national parks as possible. So far I've been to 47 (75% of them).
-- I'm hoping to eventually observe 1000 species of birds. Currently, [I'm up to 917](https://ebird.org/profile/NzU0NDQ1/world).
+- I'm hoping to eventually observe 1000 species of birds. Currently, [I'm up to 921](https://ebird.org/profile/NzU0NDQ1/world).
 - I've recently finished reading all 72 of the winners of the Hugo Award for Best Novel (science fiction or fantasy)
+- In 1988, I was the [41st person to complete *Robot Odyssey*](/img/robot_letter.jpg), which has been called "[The Hardest Computer Game of All Time](https://slate.com/technology/2014/01/robot-odyssey-the-hardest-computer-game-of-all-time.html)". After searching for it for over a year, I finally found my certificate -- a status symbol among aging techies.
+
+<img src="/img/robot_certificate.jpg" alt="Robot Odyssey certificate"><br/>
