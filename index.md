@@ -24,9 +24,11 @@ Baskauf, Steven J., John Wieczorek, John Deck, and Campbell O. Webb. 2016. **Les
 Baskauf, Steven J. and Campbell O. Webb.  2016. Darwin-SW: **Darwin Core-based terms for expressing biodiversity data as RDF**. *Semantic Web Journal* 7:629-243. <http://dx.doi.org/10.3233/SW-150203> (open access at <http://bit.ly/2dG85b5>)
 
 # Recent presentations
+Baskauf, Steve. June 10, 2024. **Recent advancements in the Audiovisual Core standard for biodiversity multimedia**. Advances in Digital Media Workshop Series: Yale. New Haven, Connecticut, USA. Presentation slides: <https://doi.org/10.6084/m9.figshare.26014210>
+
 Vivek, L., E. Clark, S.J. Baskauf, S. Xu, L. Gao, K. Nguyen, M. Goldin, K. Prasad, A. Miller, M.C. Topf, and A. Gelbard. 2024. **Network Analysis of American Otolaryngologists**. Triological Society Combined Sections Meeting, West Palm Beach, FL. January 26, 2024.
 
-Baskauf, Steve **CommonsTool.** LD4 Art and Design Affinity Group. Online. November 15, 2023. Presentation slides: <https://doi.org/10.6084/m9.figshare.24570859>. [Video link](https://drive.google.com/file/d/1n_Sf9w-IN54ooFSfmoDTnQdTkndVYzCu/view?usp=drive_link)
+Baskauf, Steve. **CommonsTool.** LD4 Art and Design Affinity Group. Online. November 15, 2023. Presentation slides: <https://doi.org/10.6084/m9.figshare.24570859>. [Video link](https://drive.google.com/file/d/1n_Sf9w-IN54ooFSfmoDTnQdTkndVYzCu/view?usp=drive_link)
 
 Sica, Yanina V., Wesley M. Hochachka, Yi-Ming Gan, Kate Ingenloff, Dmitry Schigel, Robert D. Stevenson, Steven J. Baskauf, Peter Brenton, Anahita J. N. Kazem, John Wieczorek. 2023. **Want to Describe and Share Biodiversity Inventory and Monitoring Data? The Humboldt Extension for Ecological Inventories Can Help!** Biodiversity Information Standards Annual Meeting. Hobart, Australia. October 10, 2023. <https://doi.org/10.3897/biss.7.112229>
 

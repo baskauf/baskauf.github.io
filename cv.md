@@ -281,6 +281,8 @@ development of a research-based component for the Introduction to
 Biological Sciences lab course for majors. \$5000, 2007-08.
 
 **Invited Symposia**\
+Baskauf, S. 2024. Recent advancements in the Audiovisual Core standard for biodiversity multimedia *in* Advances in Digital Media Workshop Series: Yale. June 10, 2024. New Haven, Connecticut, USA. Presentation: <https://doi.org/10.6084/m9.figshare.26014210>
+
 Baskauf, S. 2021. Who's the artist and who gets to decide? Identity
 management in Wikidata, where "anyone can edit" *in* Art in Context:
 Identity, Ethics, and Insight. Art Information Commons (Philadelphia
