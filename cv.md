@@ -79,7 +79,7 @@ School, Ridgeway, Ohio.  Taught chemistry, physics and general science. 
 (1982-83)
 
 **HONORS AND AWARDS:**\
-Jean and Alexander Heard Award for Distinguished Librarianship - For outstanding commitment to librarianship, service, and scholarship (2024)
+Jean and Alexander Heard Award for Distinguished Librarianship - For outstanding commitment to librarianship, service, and scholarship (2024)\
 Harriet S. Gilliam Award for Excellence in Teaching by a Senior
 Lecturer, Vanderbilt University (2010)\
 Graduate Student of the Year, Dept. of Biology, Vanderbilt Univ. (1999)\
