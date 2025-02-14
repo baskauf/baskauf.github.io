@@ -17,13 +17,15 @@ Baskauf, Steven J. and Jessica K. Baskauf. 2023. **Using the W3C Generating RDF 
 
 Baskauf, Steven J., Jennifer C. Girón Duque, Matthew Nielsen, Niel S. Cobb, Randy Singer, Katja C. Seltmann, Zachary Kachian, Mervin Pérez, Donat Agosti, Anna M. L. Klompen. 2023. **Implementation Experience Report for Controlled Vocabularies Used with the Audubon Core Terms subjectPart and subjectOrientation**. Biodiversity Information Science and Standards 7:e94188. <http://doi.org/10.3897/biss.7.94188>
 
-Groom, Quentin, Peter Desmet, Lien Reyserhove, Tim Adriaens, Damiano Oldoni, Sonia Vanderhoeven, Steven J. Baskauf, Arthur Chapman, Melodie McGeoch, Ramona Walls, John Wieczorek, John R. U. Wilson, Paula F. F. Zermoglio, Annie Simpson. 2019. **Improving Darwin Core for research and management of alien species**. *Biodiversity Information Science and Standards* 3:e38084. <http://dx.doi.org/10.3897/biss.3.38084>
+Groom, Quentin, Peter Desmet, Lien Reyserhove, Tim Adriaens, Damiano Oldoni, Sonia Vanderhoeven, Steven J. Baskauf, Arthur Chapman, Melodie McGeoch, Ramona Walls, John Wieczorek, John R. U. Wilson, Paula F. F. Zermoglio, Annie Simpson. 2019. **Improving Darwin Core for research and management of alien species**. *Biodiversity Information Science and Standards* 3:e38084. <https://doi.org/10.3897/biss.3.38084>
 
-Baskauf, Steven J., John Wieczorek, John Deck, and Campbell O. Webb. 2016. **Lessons learned from adapting the Darwin Core vocabulary standard for use in RDF**. *Semantic Web Journal* 7:617-627. <http://dx.doi.org/10.3233/SW-150199> (open access at <http://bit.ly/2e7i3Sj>)
+Baskauf, Steven J., John Wieczorek, John Deck, and Campbell O. Webb. 2016. **Lessons learned from adapting the Darwin Core vocabulary standard for use in RDF**. *Semantic Web Journal* 7:617-627. <https://doi.org/10.3233/SW-150199> (open access at <http://bit.ly/2e7i3Sj>)
 
-Baskauf, Steven J. and Campbell O. Webb.  2016. Darwin-SW: **Darwin Core-based terms for expressing biodiversity data as RDF**. *Semantic Web Journal* 7:629-243. <http://dx.doi.org/10.3233/SW-150203> (open access at <http://bit.ly/2dG85b5>)
+Baskauf, Steven J. and Campbell O. Webb.  2016. Darwin-SW: **Darwin Core-based terms for expressing biodiversity data as RDF**. *Semantic Web Journal* 7:629-243. <https://doi.org/10.3233/SW-150203> (open access at <http://bit.ly/2dG85b5>)
 
 # Recent presentations
+Baskauf, Steve. February 13, 2025. **Building a Global Knowledge Graph: The Semantic Web, Linked Data, and Wikidata**. Bluffton University, Bluffton, OH. Feburary 13, 2025. <https://doi.org/10.6084/m9.figshare.28410554>
+
 Baskauf, Steve. June 10, 2024. **Recent advancements in the Audiovisual Core standard for biodiversity multimedia**. Advances in Digital Media Workshop Series: Yale. New Haven, Connecticut, USA. Presentation slides: <https://doi.org/10.6084/m9.figshare.26014210>
 
 Vivek, L., E. Clark, S.J. Baskauf, S. Xu, L. Gao, K. Nguyen, M. Goldin, K. Prasad, A. Miller, M.C. Topf, and A. Gelbard. 2024. **Network Analysis of American Otolaryngologists**. Triological Society Combined Sections Meeting, West Palm Beach, FL. January 26, 2024.

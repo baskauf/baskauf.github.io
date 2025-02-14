@@ -150,12 +150,12 @@ Groom, Q, P Desmet, L Reyserhove, T Adriaens, D Oldoni, S Vanderhoeven,
 SJ Baskauf, A Chapman, M McGeoch, R Walls, J Wieczorek, JRU Wilson, PFF
 Zermoglio, A Simpson. (2019) Improving Darwin Core for research and
 management of alien species. Biodiversity Information Science and
-Standards 3:e38084. <http://dx.doi.org/10.3897/biss.3.38084>
+Standards 3:e38084. <https://doi.org/10.3897/biss.3.38084>
 
 Sachs, J, RDM Page, SJ Baskauf, J Pender, B Lujan-Toro, J Macklin, Z
 Comspon. (2019) Training and hackathon on building biodiversity
 knowledge graphs. Research Ideas and Outcomes 5:e36152.
-<http://dx.doi.org/10.3897/rio.5.e36152>
+<https://doi.org/10.3897/rio.5.e36152>
 
 Baskauf, S, R Hyam, S Blum, RA Morris, J Rees, J Sachs, G Whitbread, J
 Wieczorek. Editor: D. Endresen. (2017) TDWG Standards Documentation
@@ -170,13 +170,13 @@ Specification. Biodiversity Information Standards.
 Baskauf, S, J Wieczorek, J Deck, and CO Webb (2016) Lessons learned from
 adapting the Darwin Core vocabulary standard for use in RDF. Semantic
 Web Journal 7:617-627.\
-<http://dx.doi.org/10.3233/SW-150199> (open access at
-<http://bit.ly/2e7i3Sj>)
+<https://doi.org/10.3233/SW-150199> (open access at
+<https://bit.ly/2e7i3Sj>)
 
 Baskauf, S and CO Webb (2016) Darwin-SW: Darwin Core-based terms for
 expressing biodiversity data as RDF. Semantic Web Journal 7:629-243.\
-<http://dx.doi.org/10.3233/SW-150203> (open access at
-<http://bit.ly/2dG85b5>)
+<https://doi.org/10.3233/SW-150203> (open access at
+<https://bit.ly/2dG85b5>)
 
 Baskauf,S., J. Wieczorek, J. Deck, C. Webb, P. J. Morris, M.
 Schildhauer. (2015) Darwin Core RDF Guide. Biodiversity Information
@@ -187,7 +187,7 @@ Walls RL, Deck J, Guralnick R, Baskauf S, Beaman R, et al. (2014)
 Semantics in Support of Biodiversity Knowledge Discovery: An
 Introduction to the Biological Collections Ontology and Related
 Ontologies. PLoS ONE 9(3):e89606.
-<http://dx.doi.org/10.1371/journal.pone.0089606>.
+<https://doi.org/10.1371/journal.pone.0089606>.
 
 Baskauf, SJ (2010) Organization of occurrence-related biodiversity
 resources based on the process of their creation and the role of
@@ -203,12 +203,12 @@ toward standards for photographing living plants.  *[Vulpina
 Baskauf, SJ (2003). Factors influencing population dynamics of the
 southwestern corn borer (Lepidoptera: Crambidae): a reassessment. 
 *Environmental Entomology* 32(5):915-928.
-<http://dx.doi.org/10.1603/0046-225X-32.5.915>.
+<https://doi.org/10.1603/0046-225X-32.5.915>.
 
 Baskauf, SJ and DE McCauley (2001).  Evaluation of low temperature
 mortality as a range-limiting factor for the southwestern corn borer
 (Lepidoptera: Crambidae).  *Environmental Entomology* 30(2):181-188.
-<http://dx.doi.org/10.1603/0046-225X-30.2.181>.
+<https://doi.org/10.1603/0046-225X-30.2.181>.
 
 **Contributions to non-peer-reviewed electronic and print
 publications**\
@@ -325,6 +325,8 @@ of America), Providence, RI. August 3, 2010. 
 <http://2010.botanyconference.org/engine/search/index.php?func=detail&aid=228>
 
 **Presentations**\
+Baskauf, S. Building a Global Knowledge Graph: The Semantic Web, Linked Data, and Wikidata. Bluffton University (invited speaker). Feburary 13, 2025. <https://doi.org/10.6084/m9.figshare.28410554>
+
 Vivek, L., E. Clark, S.J. Baskauf, S. Xu, L. Gao, K. Nguyen, M. Goldin, K. Prasad, A. Miller, M.C. Topf, and A. Gelbard. 2024. Network Analysis of American Otolaryngologists. Triological Society Combined Sections Meeting, West Palm Beach, FL. January 26, 2024.
 
 Baskauf, S. CommonsTool. LD4 Art and Design Affinity Group. Online. November 15, 2023. Presentation slides: <https://doi.org/10.6084/m9.figshare.24570859>. [Video link](https://drive.google.com/file/d/1n_Sf9w-IN54ooFSfmoDTnQdTkndVYzCu/view?usp=drive_link)
@@ -413,17 +415,17 @@ Zermoglio. 2020. Unity in Variety: Developing a collection description
 standard by consensus. Biodiversity Information Standards (TDWG) annual
 meeting. Online. October 19, 2020.\
 Biodiversity Information Science and Standards 4: e59233.
-<http://dx.doi.org/10.3897/biss.4.59233>
+<https://doi.org/10.3897/biss.4.59233>
 
 Baskauf, S. 2020. Background on Standards Processes and Maintenance.
 Biodiversity Information Standards (TDWG) annual meeting. Online.
 September 22, 2020.\
-<http://dx.doi.org/10.6084/m9.figshare.13020506.v1>
+<https://doi.org/10.6084/m9.figshare.13020506.v1>
 
 Baskauf, S. 2020. Introduction to the Audubon Core Maintenance Group
 annual meeting. Biodiversity Information Standards (TDWG) annual
 meeting. Online. September 21, 2020.\
-<http://dx.doi.org/10.6084/m9.figshare.13020299.v1>
+<https://doi.org/10.6084/m9.figshare.13020299.v1>
 
 Baskauf, S. 2020. VanderBot: Using a Python script to create and update
 researcher items in Wikidata. LD4 Conference on Linked Data in
