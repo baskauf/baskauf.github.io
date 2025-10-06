@@ -212,6 +212,8 @@ mortality as a range-limiting factor for the southwestern corn borer
 
 **Contributions to non-peer-reviewed electronic and print
 publications**\
+Ingenloff K., C. Svenningsen, C. Earl, P. H. F. Shimabukuro,  Y. Sica, Y.-M. Gan, Z. R. Kachian, P. Brenton, W. Hochachka, J. Wieczorek, R. Stevenson, A. Kazem, S. Baskauf, P. F. Zermoglio, D. Bloom, A. Rodrigues, J. Gamboa Martínez, and D. Schigel. Guide for publishing biological survey and monitoring data to GBIF. GBIF Secretariat, Copenhagen. <https://doi.org/10.35035/doc-ynvs-eh84>
+
 Blebin, L., G. Kampmeier, D. Endresen, and S. Baskauf. 2021. Guidelines
 for Review Managers of Proposed TDWG Standards. Biodiversity Information
 Standards (TDWG). <https://www.tdwg.org/about/review-managers/>
