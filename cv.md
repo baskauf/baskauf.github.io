@@ -90,6 +90,8 @@ Outstanding Senior in Chemistry Award, Bluffton College, 1982.
 **RESEARCH:**\
 **Refereed publications**\
 
+Sica, Y., W. Hochachka, R. Stevenson, K. Ingenloff, P. Zermoglio, J. Wieczorek, Y.-M. Gan, D. Schigel, Z. Kachian, S. Baskauf, P. Brenton, A. Kazem, W. Jetz, R. Guralnick. 2025. Enabling Ecological Survey Data Integration with the Humboldt Extension to Darwin Core. Ecography. *In press*
+
 Sica, Y. V., K. Ingenloff, P. Zermoglio, Y.-M. Gan, P. Brenton, J. Wieczorek, W. M. Hochachka, Z. R. Kachian, R. D. Stevenson, A. J. N. Kazem, D. Schigel, S. J. Baskauf, T. Suwa, R. Guralnick, R. L. Walls, and W. Jetz. 2024. Humboldt Extension Vocabulary List of Terms. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/eco/>
 
 Sica, Y. V., W. M. Hochachka, and S. J. Baskauf. 2024. Taxon Completeness Reported Controlled Vocabulary List of Terms. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/tcr/>
@@ -98,7 +100,7 @@ Gan, Y.-M., W. M. Hochachka, J. Wieczorek, Y. V. Sica, P. Brenton, and S. J. Bas
 
 Gan, Y.-M., W. M. Hochachka, J. Wieczorek, Y. V. Sica, P. Brenton, R. D. Stevenson, A. J. N. Kazem, S. J. Baskauf, Z. R. Kachian, and K. Ingenloff. 2024. Properties of hierarchical events in the Humboldt Extension for Ecological Inventories. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/hierarchy/>
 
-J. W. Bubnicki, B. Norton, S. J. Baskauf, T. Bruce, F. Cagnacci, J. Casaer, M. Churski, J. P. G. M. Cromsigt, S. D. Farra, C. Fiderer, T. D. Forrester, H. Hendry, M. Heurich, T. R. Hofmeester, P. A. Jansen, R. Kays, D. P. J. Kuijper, Y. Liefting, J. D. C. Linnell, M. S. Luskin, C. Mann, T. Milotic, P. Newman, J. Niedballa, D. Oldoni, F. Ossi, T. Robertson, F. Rovero, M. Rowcliffe, L. Seidenari, I. Stachowicz, D. Stowell, M. W. Tobler, J. Wieczorek, F. Zimmermann, P. Desmet. 2023. Camtrap DP: An open standard for the FAIR exchange and archiving of camera trap data. Remote Sensing in Ecology and Conservation. 2023. <https://doi.org/10.1002/rse2.374>
+J. W. Bubnicki, B. Norton, S. J. Baskauf, T. Bruce, F. Cagnacci, J. Casaer, M. Churski, J. P. G. M. Cromsigt, S. D. Farra, C. Fiderer, T. D. Forrester, H. Hendry, M. Heurich, T. R. Hofmeester, P. A. Jansen, R. Kays, D. P. J. Kuijper, Y. Liefting, J. D. C. Linnell, M. S. Luskin, C. Mann, T. Milotic, P. Newman, J. Niedballa, D. Oldoni, F. Ossi, T. Robertson, F. Rovero, M. Rowcliffe, L. Seidenari, I. Stachowicz, D. Stowell, M. W. Tobler, J. Wieczorek, F. Zimmermann, P. Desmet. 2023. Camtrap DP: An open standard for the FAIR exchange and archiving of camera trap data. Remote Sensing in Ecology and Conservation. <https://doi.org/10.1002/rse2.374>
 
 Baskauf, SJ, NS Cobb, JC Girón Duque, M Nielsen, M Pérez, R Singer. 2023. Controlled Vocabulary for Audubon
 Core subjectOrientation: List of Terms. Biodiversity Information Standards (TDWG).
@@ -283,6 +285,8 @@ development of a research-based component for the Introduction to
 Biological Sciences lab course for majors. \$5000, 2007-08.
 
 **Invited Symposia**\
+Baskauf, S. 2025. Darwin Core Data Package public review process *in* Darwin Core Data Package: an updated model and format for exchanging biodiversity data. Biodiversity Information Standards (TDWG) Conference, Bogatá, Colombia. October 21, 2025.
+
 Baskauf, S. 2024. Recent advancements in the Audiovisual Core standard for biodiversity multimedia *in* Advances in Digital Media Workshop Series: Yale. June 10, 2024. New Haven, Connecticut, USA. Presentation: <https://doi.org/10.6084/m9.figshare.26014210>
 
 Baskauf, S. 2021. Who's the artist and who gets to decide? Identity
