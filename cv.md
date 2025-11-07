@@ -90,7 +90,7 @@ Outstanding Senior in Chemistry Award, Bluffton College, 1982.
 **RESEARCH:**\
 **Refereed publications**\
 
-Sica, Y., W. Hochachka, R. Stevenson, K. Ingenloff, P. Zermoglio, J. Wieczorek, Y.-M. Gan, D. Schigel, Z. Kachian, S. Baskauf, P. Brenton, A. Kazem, W. Jetz, R. Guralnick. 2025. Enabling Ecological Survey Data Integration with the Humboldt Extension to Darwin Core. Ecography. *In press*
+Sica, Y., W. Hochachka, R. Stevenson, K. Ingenloff, P. Zermoglio, J. Wieczorek, Y.-M. Gan, D. Schigel, Z. Kachian, S. Baskauf, P. Brenton, A. Kazem, W. Jetz, R. Guralnick. 2025. Enabling Ecological Survey Data Integration with the Humboldt Extension to Darwin Core. Ecography. *In press* <https://doi.org/10.1002/ecog.08223>
 
 Sica, Y. V., K. Ingenloff, P. Zermoglio, Y.-M. Gan, P. Brenton, J. Wieczorek, W. M. Hochachka, Z. R. Kachian, R. D. Stevenson, A. J. N. Kazem, D. Schigel, S. J. Baskauf, T. Suwa, R. Guralnick, R. L. Walls, and W. Jetz. 2024. Humboldt Extension Vocabulary List of Terms. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/eco/>
 
@@ -111,7 +111,7 @@ Core subjectPart: List of Terms. Biodiversity Information Standards (TDWG).
 <http://rs.tdwg.org/ac/doc/part/>
 
 Baskauf, SJ, JC Girón Duque, M Nielsen, NS Cobb, R Singer, KC Seltmann, Z Kachian, M Pérez, D Agosti, AML Klompen. 2023. Implementation Experience Report for Controlled Vocabularies Used with the Audubon Core Terms subjectPart and subjectOrientation. Biodiversity Information Science and Standards 7:e94188.
-<http://doi.org/10.3897/biss.7.94188>
+<https://doi.org/10.3897/biss.7.94188>
 
 Baskauf, SJ and JK Baskauf. 2023. Using the W3C Generating RDF from
 Tabular Data on the Web Recommendation to manage small Wikidata
