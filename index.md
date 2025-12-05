@@ -9,7 +9,7 @@ hero_image: /img/wheeler.jpg
 
 # Selected publications
 
-Sica, Yanina V., Wesley M. Hochachka, Robert D. Stevenson, Kate Ingenloff, Paula Zermoglio, John Wieczorek, Yi-Ming Gan, Dmitry Schigel, Zachary R. Kachian, Steve Baskauf, Peter Brenton,  Anahita J. N. Kazem,  Walter Jetz,  Robert Guralnick. 2025. Enabling Ecological Survey Data Integration with the Humboldt Extension to Darwin Core. Ecography e08223.  <https://doi.org/10.1002/ecog.08223>
+Sica, Yanina V., Wesley M. Hochachka, Robert D. Stevenson, Kate Ingenloff, Paula Zermoglio, John Wieczorek, Yi-Ming Gan, Dmitry Schigel, Zachary R. Kachian, Steve Baskauf, Peter Brenton,  Anahita J. N. Kazem,  Walter Jetz,  Robert Guralnick. 2025. **Enabling Ecological Survey Data Integration with the Humboldt Extension to Darwin Core**. Ecography e08223.  <https://doi.org/10.1002/ecog.08223>
 
 Yanina V. Sica, Kate Ingenloff, Paula Zermoglio, Yi-Ming Gan, Peter Brenton, John Wieczorek, Wesley M. Hochachka, Zachary R. Kachian, Robert D. Stevenson, Anahita J. N. Kazem, Dmitry Schigel, Steven J. Baskauf, Tomomi Suwa, Robert Guralnick, Ramona L. Walls, Walter Jetz. 2024. **Humboldt Extension Vocabulary List of Terms**. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/eco/>
 
