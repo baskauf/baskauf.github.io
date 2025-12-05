@@ -90,7 +90,7 @@ Outstanding Senior in Chemistry Award, Bluffton College, 1982.
 **RESEARCH:**\
 **Refereed publications**\
 
-Sica, Y., W. Hochachka, R. Stevenson, K. Ingenloff, P. Zermoglio, J. Wieczorek, Y.-M. Gan, D. Schigel, Z. Kachian, S. Baskauf, P. Brenton, A. Kazem, W. Jetz, R. Guralnick. 2025. Enabling Ecological Survey Data Integration with the Humboldt Extension to Darwin Core. Ecography. *In press* <https://doi.org/10.1002/ecog.08223>
+Sica, Y., W. Hochachka, R. Stevenson, K. Ingenloff, P. Zermoglio, J. Wieczorek, Y.-M. Gan, D. Schigel, Z. Kachian, S. Baskauf, P. Brenton, A. Kazem, W. Jetz, R. Guralnick. 2025. Enabling Ecological Survey Data Integration with the Humboldt Extension to Darwin Core. Ecography e08223.  <https://doi.org/10.1002/ecog.08223>
 
 Sica, Y. V., K. Ingenloff, P. Zermoglio, Y.-M. Gan, P. Brenton, J. Wieczorek, W. M. Hochachka, Z. R. Kachian, R. D. Stevenson, A. J. N. Kazem, D. Schigel, S. J. Baskauf, T. Suwa, R. Guralnick, R. L. Walls, and W. Jetz. 2024. Humboldt Extension Vocabulary List of Terms. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/eco/>
 

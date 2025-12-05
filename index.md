@@ -9,6 +9,8 @@ hero_image: /img/wheeler.jpg
 
 # Selected publications
 
+Sica, Yanina V., Wesley M. Hochachka, Robert D. Stevenson, Kate Ingenloff, Paula Zermoglio, John Wieczorek, Yi-Ming Gan, Dmitry Schigel, Zachary R. Kachian, Steve Baskauf, Peter Brenton,  Anahita J. N. Kazem,  Walter Jetz,  Robert Guralnick. 2025. Enabling Ecological Survey Data Integration with the Humboldt Extension to Darwin Core. Ecography e08223.  <https://doi.org/10.1002/ecog.08223>
+
 Yanina V. Sica, Kate Ingenloff, Paula Zermoglio, Yi-Ming Gan, Peter Brenton, John Wieczorek, Wesley M. Hochachka, Zachary R. Kachian, Robert D. Stevenson, Anahita J. N. Kazem, Dmitry Schigel, Steven J. Baskauf, Tomomi Suwa, Robert Guralnick, Ramona L. Walls, Walter Jetz. 2024. **Humboldt Extension Vocabulary List of Terms**. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/eco/>
 
 Jakub W. Bubnicki, Ben Norton, Steven J. Baskauf, Tom Bruce, Francesca Cagnacci, Jim Casaer, Marcin Churski, Joris P.G.M. Cromsigt, Simone Dal Farra, Christian Fiderer, Tavis D. Forrester, Heidi Hendry, Marco Heurich, Tim R. Hofmeester, Patrick A. Jansen, Roland Kays, Dries P.J. Kuijper, Yorick Liefting, John D.C. Linnell, Matthew S Luskin, Christopher Mann, Tanja Milotic, Peggy Newman, Jürgen Niedballa, Damiano Oldoni, Federico Ossi, Tim Robertson, Francesco Rovero, Marcus Rowcliffe, Lorenzo Seidenari, Izabela Stachowicz, Dan Stowell, Mathias W. Tobler, John Wieczorek, Fridolin Zimmermann, Peter Desmet. 2023. **Camtrap DP: An open standard for the FAIR exchange and archiving of camera trap data.** *Remote Sensing in Ecology and Conservation.* 2023. <https://doi.org/10.1002/rse2.374>
