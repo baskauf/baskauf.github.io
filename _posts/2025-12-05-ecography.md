@@ -4,7 +4,7 @@ title: Enabling ecological survey data integration
 description: Our paper "Enabling ecological survey data integration with the Humboldt Extension to Darwin Core" has been published in the journal Ecography.
 date: 2025-12-05 13:00:00
 hero_image: /img/ecography_large.jpg
-image: /img/ecography_small.jpeg
+image: /img/ecography_small.jpg
 hero_height: is-large
 hero_darken: true
 ---
