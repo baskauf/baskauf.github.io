@@ -92,6 +92,10 @@ Outstanding Senior in Chemistry Award, Bluffton College, 1982.
 
 Baskauf, SJ, E. Baker, D. Stowell, and N. Klazenga. 2026. Controlled Vocabulary for Audiovisual Core Content Description: List of Terms. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/ac/doc/cd/>
 
+Vivek, N., E. Clark, L. Gao, K. Nguyen, L. Du, S. Xu, S. Baskauf, K. Prasad, A. Miller, M. Goldin, P. Zhang, S. Rohde, M. Topf, A. Geibard. 2025. The social network of otolaryngology: Collaborative publishing relationships by gender. The Laryngoscope 135(12):4680-4685. <https://doi.org/10.1002/lary.32394> 
+
+Vivek, N., E. Clark, L. Gao, S. Xu, S. Baskauf, K. Nguyen, M. Goldin, K. Prasad, A. Miller, P. Zhang, S. Yang, S. Rohde, M. Topf, A. Geibard. 2025. Social network analysis as a new tool to measure academic impact of physicians. Investigative Otolaryngology 10(1):e70060. <https://doi.org/10.1002/lio2.70060>
+
 Sica, Y., W. Hochachka, R. Stevenson, K. Ingenloff, P. Zermoglio, J. Wieczorek, Y.-M. Gan, D. Schigel, Z. Kachian, S. Baskauf, P. Brenton, A. Kazem, W. Jetz, and R. Guralnick. 2025. Enabling Ecological Survey Data Integration with the Humboldt Extension to Darwin Core. Ecography e08223.  <https://doi.org/10.1002/ecog.08223>
 
 Sica, Y. V., K. Ingenloff, P. Zermoglio, Y.-M. Gan, P. Brenton, J. Wieczorek, W. M. Hochachka, Z. R. Kachian, R. D. Stevenson, A. J. N. Kazem, D. Schigel, S. J. Baskauf, T. Suwa, R. Guralnick, R. L. Walls, and W. Jetz. 2024. Humboldt Extension Vocabulary List of Terms. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/eco/>
