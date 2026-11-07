@@ -88,7 +88,9 @@ High School (1989-90).\
 Outstanding Senior in Chemistry Award, Bluffton College, 1982.
 
 **RESEARCH:**\
-**Refereed publications**\
+**Refereed publications:**\
+
+Baskauf, SJ, J. Wieczorek, T. Robertson. 2026. Darwin Core schemas. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/dwc/doc/schemas/>
 
 Baskauf, SJ, E. Baker, D. Stowell, and N. Klazenga. 2026. Controlled Vocabulary for Audiovisual Core Content Description: List of Terms. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/ac/doc/cd/>
 
@@ -220,7 +222,7 @@ mortality as a range-limiting factor for the southwestern corn borer
 
 **Contributions to non-peer-reviewed electronic and print
 publications**\
-Ingenloff K., C. Svenningsen, C. Earl, P. H. F. Shimabukuro,  Y. Sica, Y.-M. Gan, Z. R. Kachian, P. Brenton, W. Hochachka, J. Wieczorek, R. Stevenson, A. Kazem, S. Baskauf, P. F. Zermoglio, D. Bloom, A. Rodrigues, J. Gamboa Martínez, and D. Schigel. Guide for publishing biological survey and monitoring data to GBIF. GBIF Secretariat, Copenhagen. <https://doi.org/10.35035/doc-ynvs-eh84>
+Ingenloff K., C. Svenningsen, C. Earl, P. H. F. Shimabukuro,  Y. Sica, Y.-M. Gan, Z. R. Kachian, P. Brenton, W. Hochachka, J. Wieczorek, R. Stevenson, A. Kazem, S. Baskauf, P. F. Zermoglio, D. Bloom, A. Rodrigues, J. Gamboa Martínez, and D. Schigel. 2025. Guide for publishing biological survey and monitoring data to GBIF. GBIF Secretariat, Copenhagen. <https://doi.org/10.35035/doc-ynvs-eh84>
 
 Blebin, L., G. Kampmeier, D. Endresen, and S. Baskauf. 2021. Guidelines
 for Review Managers of Proposed TDWG Standards. Biodiversity Information
@@ -337,9 +339,11 @@ of America), Providence, RI. August 3, 2010. 
 <http://2010.botanyconference.org/engine/search/index.php?func=detail&aid=228>
 
 **Presentations**\
+Ingenloff, K., J. Wieczorek, T. Robertson, and S. Baskauf. Darwin Core Data Package (DwC-DP). Ecological Society of America annual meeting (poster), Salt Lake City, UT. 2026
+
 Baskauf, S. Building a Global Knowledge Graph: The Semantic Web, Linked Data, and Wikidata. Bluffton University (invited speaker). Feburary 13, 2025. <https://doi.org/10.6084/m9.figshare.28410554>
 
-Vivek, L., E. Clark, S.J. Baskauf, S. Xu, L. Gao, K. Nguyen, M. Goldin, K. Prasad, A. Miller, M.C. Topf, and A. Gelbard. 2024. Network Analysis of American Otolaryngologists. Triological Society Combined Sections Meeting, West Palm Beach, FL. January 26, 2024.
+Vivek, L., E. Clark, S.J. Baskauf, S. Xu, L. Gao, K. Nguyen, M. Goldin, K. Prasad, A. Miller, M.C. Topf, and A. Gelbard. Network Analysis of American Otolaryngologists. Triological Society Combined Sections Meeting, West Palm Beach, FL. January 26, 2024.
 
 Baskauf, S. CommonsTool. LD4 Art and Design Affinity Group. Online. November 15, 2023. Presentation slides: <https://doi.org/10.6084/m9.figshare.24570859>. [Video link](https://drive.google.com/file/d/1n_Sf9w-IN54ooFSfmoDTnQdTkndVYzCu/view?usp=drive_link)
 
