@@ -30,6 +30,8 @@ Baskauf, Steven J., John Wieczorek, John Deck, and Campbell O. Webb. 2016. **Les
 Baskauf, Steven J. and Campbell O. Webb.  2016. Darwin-SW: **Darwin Core-based terms for expressing biodiversity data as RDF**. *Semantic Web Journal* 7:629-243. <https://doi.org/10.3233/SW-150203> (open access at <http://bit.ly/2dG85b5>)
 
 # Recent presentations
+Ingenloff, Kate, John Wieczorek, Tim Robertson, and Steven J. Baskauf. **Darwin Core Data Package (DwC-DP)**. Ecological Society of America annual meeting (poster), Salt Lake City, UT. 2026
+
 Baskauf, Steve. February 13, 2025. **Building a Global Knowledge Graph: The Semantic Web, Linked Data, and Wikidata**. Bluffton University, Bluffton, OH. Feburary 13, 2025. <https://doi.org/10.6084/m9.figshare.28410554>
 
 Baskauf, Steve. June 10, 2024. **Recent advancements in the Audiovisual Core standard for biodiversity multimedia**. Advances in Digital Media Workshop Series: Yale. New Haven, Connecticut, USA. Presentation slides: <https://doi.org/10.6084/m9.figshare.26014210>
